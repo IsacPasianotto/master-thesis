@@ -1,0 +1,7 @@
+#+title: New approaches in scientific computing: the design of a cloud-ready HPC infrastructure
+#+author: Author: [[https://github.com/IsacPasianotto/][*Isac Pasianotto*]]
+
+* Get ready:
+
+In the folder [[./reproducibility][reproducibility]] you will find an accurate description of all the environment and tools used in this work.
+
