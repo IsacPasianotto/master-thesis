@@ -1,0 +1,858 @@
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.46
+4                       0.46
+8                       0.46
+16                      0.48
+32                      0.49
+64                      0.50
+128                     0.55
+256                     0.58
+512                     0.68
+1024                    0.78
+2048                    0.87
+4096                    2.05
+8192                    2.32
+16384                   3.02
+32768                   4.07
+65536                   6.60
+131072                 11.25
+262144                 20.29
+524288                 41.19
+1048576                95.16
+2097152               226.11
+4194304               513.03
+[1721029303.271960447] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029303.299007326] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029303.325680476] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029303.330317458] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029303.357149409] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029303.383207413] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.58
+2                       0.58
+4                       0.58
+8                       0.58
+16                      0.59
+32                      0.59
+64                      0.61
+128                     0.66
+256                     0.73
+512                     0.85
+1024                    0.94
+2048                    1.03
+4096                    2.27
+8192                    2.58
+16384                   3.32
+32768                   4.41
+65536                   6.95
+131072                 11.85
+262144                 21.34
+524288                 43.51
+1048576                99.96
+2097152               230.13
+4194304               531.37
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.51
+4                       0.47
+8                       0.47
+16                      0.49
+32                      0.49
+64                      0.51
+128                     0.58
+256                     0.63
+512                     0.75
+1024                    0.83
+2048                    0.94
+4096                    2.17
+8192                    2.47
+16384                   3.19
+32768                   4.30
+65536                   6.97
+131072                 11.74
+262144                 21.52
+524288                 42.75
+1048576                99.73
+2097152               231.50
+4194304               524.45
+[1721029311.124865114] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029311.151596737] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029311.175662775] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029311.178222803] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029311.202795354] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029311.228891054] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.58
+2                       0.58
+4                       0.57
+8                       0.57
+16                      0.58
+32                      0.59
+64                      0.60
+128                     0.64
+256                     0.71
+512                     0.84
+1024                    0.93
+2048                    1.06
+4096                    2.27
+8192                    2.55
+16384                   3.30
+32768                   4.38
+65536                   6.78
+131072                 11.91
+262144                 21.71
+524288                 43.47
+1048576                99.30
+2097152               227.59
+4194304               537.82
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.48
+4                       0.47
+8                       0.47
+16                      0.49
+32                      0.49
+64                      0.51
+128                     0.58
+256                     0.62
+512                     0.75
+1024                    0.85
+2048                    0.93
+4096                    2.20
+8192                    2.50
+16384                   3.23
+32768                   4.35
+65536                   6.97
+131072                 11.86
+262144                 21.00
+524288                 42.76
+1048576                97.30
+2097152               232.53
+4194304               524.41
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.46
+2                       0.47
+4                       0.46
+8                       0.46
+16                      0.47
+32                      0.48
+64                      0.49
+128                     0.53
+256                     0.59
+512                     0.75
+1024                    0.84
+2048                    0.94
+4096                    2.17
+8192                    2.49
+16384                   3.20
+32768                   4.41
+65536                   6.92
+131072                 11.85
+262144                 21.33
+524288                 42.97
+1048576                97.55
+2097152               233.61
+4194304               527.43
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.47
+4                       0.47
+8                       0.46
+16                      0.48
+32                      0.47
+64                      0.49
+128                     0.55
+256                     0.63
+512                     0.71
+1024                    0.80
+2048                    0.93
+4096                    2.17
+8192                    2.49
+16384                   3.22
+32768                   4.33
+65536                   6.94
+131072                 11.87
+262144                 21.08
+524288                 42.84
+1048576                97.28
+2097152               233.17
+4194304               536.35
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.47
+4                       0.46
+8                       0.47
+16                      0.48
+32                      0.48
+64                      0.49
+128                     0.54
+256                     0.61
+512                     0.73
+1024                    0.83
+2048                    0.91
+4096                    2.13
+8192                    2.44
+16384                   3.15
+32768                   4.29
+65536                   6.93
+131072                 11.83
+262144                 21.23
+524288                 42.93
+1048576                98.27
+2097152               232.53
+4194304               533.12
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.46
+4                       0.46
+8                       0.46
+16                      0.47
+32                      0.48
+64                      0.49
+128                     0.55
+256                     0.62
+512                     0.71
+1024                    0.82
+2048                    0.93
+4096                    2.17
+8192                    2.47
+16384                   3.18
+32768                   4.32
+65536                   6.96
+131072                 11.75
+262144                 22.04
+524288                 43.18
+1048576                99.37
+2097152               234.00
+4194304               522.85
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.46
+2                       0.46
+4                       0.45
+8                       0.45
+16                      0.47
+32                      0.47
+64                      0.48
+128                     0.53
+256                     0.59
+512                     0.72
+1024                    0.80
+2048                    0.94
+4096                    2.17
+8192                    2.46
+16384                   3.19
+32768                   4.24
+65536                   6.94
+131072                 11.84
+262144                 21.25
+524288                 43.26
+1048576               100.07
+2097152               231.98
+4194304               540.83
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.47
+4                       0.46
+8                       0.48
+16                      0.47
+32                      0.47
+64                      0.49
+128                     0.53
+256                     0.60
+512                     0.72
+1024                    0.81
+2048                    0.93
+4096                    2.14
+8192                    2.44
+16384                   3.18
+32768                   4.28
+65536                   6.94
+131072                 11.69
+262144                 21.77
+524288                 42.91
+1048576                97.90
+2097152               232.68
+4194304               521.86
+[1721029342.304727708] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029342.331938570] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029342.358646768] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029342.363519009] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029342.391084976] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029342.417398398] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.57
+2                       0.56
+4                       0.56
+8                       0.56
+16                      0.58
+32                      0.57
+64                      0.59
+128                     0.62
+256                     0.65
+512                     0.85
+1024                    0.96
+2048                    1.06
+4096                    2.27
+8192                    2.54
+16384                   3.28
+32768                   4.41
+65536                   6.84
+131072                 11.89
+262144                 21.54
+524288                 44.11
+1048576                98.33
+2097152               228.91
+4194304               527.22
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.48
+2                       0.48
+4                       0.47
+8                       0.48
+16                      0.48
+32                      0.49
+64                      0.50
+128                     0.57
+256                     0.63
+512                     0.73
+1024                    0.82
+2048                    0.92
+4096                    2.20
+8192                    2.48
+16384                   3.19
+32768                   4.31
+65536                   6.99
+131072                 11.88
+262144                 21.17
+524288                 43.27
+1048576               100.01
+2097152               232.67
+4194304               529.42
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.47
+4                       0.47
+8                       0.47
+16                      0.49
+32                      0.49
+64                      0.51
+128                     0.56
+256                     0.61
+512                     0.76
+1024                    0.85
+2048                    0.92
+4096                    2.12
+8192                    2.43
+16384                   3.15
+32768                   4.29
+65536                   6.89
+131072                 11.81
+262144                 21.78
+524288                 43.23
+1048576                97.13
+2097152               234.55
+4194304               543.02
+[1721029354.065786121] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029354.092881234] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029354.119607103] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029354.124373102] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029354.151313107] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029354.177648512] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.57
+2                       0.57
+4                       0.56
+8                       0.56
+16                      0.58
+32                      0.58
+64                      0.60
+128                     0.64
+256                     0.70
+512                     0.82
+1024                    0.95
+2048                    1.03
+4096                    2.24
+8192                    2.55
+16384                   3.23
+32768                   4.42
+65536                   6.71
+131072                 11.83
+262144                 21.41
+524288                 43.27
+1048576               100.52
+2097152               231.10
+4194304               535.25
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.49
+2                       0.48
+4                       0.49
+8                       0.49
+16                      0.50
+32                      0.50
+64                      0.52
+128                     0.57
+256                     0.60
+512                     0.75
+1024                    0.85
+2048                    0.95
+4096                    2.15
+8192                    2.43
+16384                   3.20
+32768                   4.25
+65536                   6.91
+131072                 11.76
+262144                 21.06
+524288                 43.19
+1048576                98.67
+2097152               233.44
+4194304               530.87
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.46
+2                       0.47
+4                       0.47
+8                       0.47
+16                      0.47
+32                      0.48
+64                      0.49
+128                     0.55
+256                     0.58
+512                     0.74
+1024                    0.81
+2048                    0.94
+4096                    2.15
+8192                    2.45
+16384                   3.18
+32768                   4.26
+65536                   6.92
+131072                 11.84
+262144                 20.81
+524288                 42.99
+1048576                97.87
+2097152               233.03
+4194304               527.78
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.48
+2                       0.48
+4                       0.48
+8                       0.47
+16                      0.49
+32                      0.48
+64                      0.51
+128                     0.55
+256                     0.55
+512                     0.78
+1024                    0.87
+2048                    0.99
+4096                    2.15
+8192                    2.46
+16384                   3.22
+32768                   4.46
+65536                   6.98
+131072                 11.83
+262144                 21.45
+524288                 43.02
+1048576                97.88
+2097152               233.21
+4194304               524.84
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.47
+4                       0.46
+8                       0.46
+16                      0.48
+32                      0.48
+64                      0.49
+128                     0.54
+256                     0.61
+512                     0.69
+1024                    0.82
+2048                    0.92
+4096                    2.16
+8192                    2.43
+16384                   3.19
+32768                   4.28
+65536                   6.91
+131072                 11.84
+262144                 20.98
+524288                 43.05
+1048576               100.07
+2097152               234.22
+4194304               522.81
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.47
+4                       0.47
+8                       0.47
+16                      0.48
+32                      0.48
+64                      0.49
+128                     0.55
+256                     0.62
+512                     0.74
+1024                    0.83
+2048                    0.93
+4096                    2.16
+8192                    2.44
+16384                   3.21
+32768                   4.33
+65536                   6.93
+131072                 11.79
+262144                 21.26
+524288                 43.28
+1048576                96.13
+2097152               233.78
+4194304               528.36
+[1721029377.471594557] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029377.498663739] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029377.525824613] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029377.526497199] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029377.553620024] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029377.580085255] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.58
+2                       0.58
+4                       0.57
+8                       0.58
+16                      0.60
+32                      0.60
+64                      0.62
+128                     0.68
+256                     0.73
+512                     0.84
+1024                    0.96
+2048                    1.03
+4096                    2.28
+8192                    2.54
+16384                   3.30
+32768                   4.37
+65536                   6.77
+131072                 11.65
+262144                 21.48
+524288                 43.59
+1048576               100.88
+2097152               228.53
+4194304               537.25
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.48
+2                       0.47
+4                       0.47
+8                       0.49
+16                      0.48
+32                      0.48
+64                      0.49
+128                     0.54
+256                     0.61
+512                     0.65
+1024                    0.78
+2048                    0.91
+4096                    2.07
+8192                    2.35
+16384                   3.07
+32768                   4.14
+65536                   6.62
+131072                 11.30
+262144                 20.25
+524288                 41.44
+1048576                96.26
+2097152               225.72
+4194304               514.11
+[1721029385.277845843] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029385.305079301] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029385.331932527] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029385.332637912] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029385.359593793] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029385.385833253] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.58
+2                       0.58
+4                       0.57
+8                       0.57
+16                      0.59
+32                      0.59
+64                      0.59
+128                     0.67
+256                     0.72
+512                     0.89
+1024                    0.97
+2048                    1.05
+4096                    2.27
+8192                    2.59
+16384                   3.30
+32768                   4.36
+65536                   6.87
+131072                 11.82
+262144                 21.65
+524288                 43.44
+1048576                99.10
+2097152               228.82
+4194304               530.89
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.48
+2                       0.47
+4                       0.47
+8                       0.48
+16                      0.49
+32                      0.49
+64                      0.50
+128                     0.56
+256                     0.61
+512                     0.72
+1024                    0.83
+2048                    0.95
+4096                    2.16
+8192                    2.44
+16384                   3.18
+32768                   4.32
+65536                   6.94
+131072                 11.77
+262144                 20.96
+524288                 43.33
+1048576                96.54
+2097152               233.59
+4194304               531.20
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.48
+2                       0.48
+4                       0.48
+8                       0.48
+16                      0.50
+32                      0.50
+64                      0.53
+128                     0.57
+256                     0.61
+512                     0.76
+1024                    0.82
+2048                    0.93
+4096                    2.15
+8192                    2.43
+16384                   3.16
+32768                   4.28
+65536                   6.89
+131072                 11.87
+262144                 21.35
+524288                 43.07
+1048576                98.30
+2097152               233.30
+4194304               521.84
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.48
+4                       0.47
+8                       0.48
+16                      0.48
+32                      0.48
+64                      0.50
+128                     0.54
+256                     0.61
+512                     0.72
+1024                    0.81
+2048                    0.93
+4096                    2.14
+8192                    2.43
+16384                   3.17
+32768                   4.24
+65536                   6.87
+131072                 11.88
+262144                 21.56
+524288                 43.24
+1048576                98.02
+2097152               233.05
+4194304               537.00
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.47
+2                       0.47
+4                       0.47
+8                       0.48
+16                      0.48
+32                      0.48
+64                      0.50
+128                     0.54
+256                     0.58
+512                     0.73
+1024                    0.82
+2048                    0.91
+4096                    2.14
+8192                    2.44
+16384                   3.18
+32768                   4.29
+65536                   6.90
+131072                 11.85
+262144                 21.22
+524288                 43.17
+1048576                98.10
+2097152               233.44
+4194304               527.01
+[1721029404.788289012] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029404.815599983] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029404.842185162] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029404.847408517] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029404.874358733] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029404.900373154] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.58
+2                       0.58
+4                       0.57
+8                       0.57
+16                      0.59
+32                      0.61
+64                      0.60
+128                     0.65
+256                     0.66
+512                     0.84
+1024                    0.96
+2048                    1.05
+4096                    2.26
+8192                    2.55
+16384                   3.29
+32768                   4.33
+65536                   6.79
+131072                 11.79
+262144                 21.37
+524288                 43.14
+1048576                97.86
+2097152               227.55
+4194304               537.85
+[1721029408.765887302] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029408.792727638] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029408.816985507] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029408.819583133] thin003.hpc.rd.areasciencepark.it:rank0.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029408.844412426] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029408.870527216] thin003.hpc.rd.areasciencepark.it:rank1.osu_multi_lat: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.57
+2                       0.57
+4                       0.56
+8                       0.56
+16                      0.58
+32                      0.58
+64                      0.60
+128                     0.64
+256                     0.70
+512                     0.89
+1024                    0.95
+2048                    1.02
+4096                    2.25
+8192                    2.55
+16384                   3.30
+32768                   4.41
+65536                   6.96
+131072                 11.86
+262144                 21.80
+524288                 44.02
+1048576               100.27
+2097152               228.97
+4194304               538.29
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                       0.45
+2                       0.45
+4                       0.45
+8                       0.45
+16                      0.46
+32                      0.46
+64                      0.47
+128                     0.52
+256                     0.58
+512                     0.69
+1024                    0.76
+2048                    0.85
+4096                    1.99
+8192                    2.29
+16384                   2.95
+32768                   4.12
+65536                   6.59
+131072                 11.29
+262144                 20.34
+524288                 40.92
+1048576                93.71
+2097152               226.83
+4194304               511.93

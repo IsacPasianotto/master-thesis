@@ -1,0 +1,16 @@
+#+title: OSU benchmark for network assessment
+
+
+* About the OSU benchmark
+
+TODO -> add this section
+
+* Perform the benchmark - SLURM
+
+  * edit the [[./src/slurm/compile.sh][./src/slurm/compile.sh]] file with your needed specification
+  * compile the benchmark with [[./src/slurm/get_ready.sh][./src/slurm/get_ready.sh]] script
+  * adjust the setting of [[./src/slurm/run_1_node.sh][./src/slurm/run_1_node.sh]] and [[./src/slurm/run_2_nodes.sh][./src/slurm/run_2_nodes.sh]] file and launch them with ~sbatch~
+
+* Perform the benchmark - Kubernetes
+
+

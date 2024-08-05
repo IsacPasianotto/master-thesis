@@ -1,0 +1,1104 @@
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029183.083289] [thin003:162057:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029183.083295] [thin003:162057:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029183.101206] [thin003:162057:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029183.101230] [thin003:162057:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.45
+2               0.45
+4               0.45
+8               0.45
+16              0.46
+32              0.46
+64              0.47
+128             0.53
+256             0.58
+512             0.68
+1024            0.82
+2048            0.89
+4096            2.15
+8192            2.48
+16384           3.19
+32768           4.32
+65536           6.56
+131072         11.15
+262144         20.18
+524288         40.60
+1048576        94.00
+2097152       226.08
+4194304       501.46
+[1721029186.795992209] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029186.823258279] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029186.850441750] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029186.854424916] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029186.881282514] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029186.907659746] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029186.940868] [thin003:162080:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029186.940875] [thin003:162080:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029186.944171] [thin003:162080:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029186.944191] [thin003:162080:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.53
+4               0.53
+8               0.53
+16              0.54
+32              0.58
+64              0.57
+128             0.63
+256             0.69
+512             0.76
+1024            0.87
+2048            1.01
+4096            2.19
+8192            2.44
+16384           3.14
+32768           4.21
+65536           6.47
+131072         11.02
+262144         20.27
+524288         41.51
+1048576        95.40
+2097152       222.81
+4194304       516.69
+[1721029190.693721082] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029190.720938311] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029190.747794051] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029190.752278529] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029190.779218857] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029190.805621314] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029190.838856] [thin003:162103:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029190.838862] [thin003:162103:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029190.842205] [thin003:162103:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029190.842225] [thin003:162103:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.55
+2               0.55
+4               0.55
+8               0.54
+16              0.57
+32              0.56
+64              0.57
+128             0.64
+256             0.69
+512             0.75
+1024            0.88
+2048            0.96
+4096            2.17
+8192            2.46
+16384           3.12
+32768           4.20
+65536           6.53
+131072         11.02
+262144         20.02
+524288         41.25
+1048576        95.70
+2097152       224.19
+4194304       524.81
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029194.685642] [thin003:162125:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029194.685649] [thin003:162125:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029194.703415] [thin003:162125:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029194.703440] [thin003:162125:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.44
+2               0.43
+4               0.43
+8               0.43
+16              0.45
+32              0.45
+64              0.45
+128             0.49
+256             0.56
+512             0.67
+1024            0.78
+2048            0.87
+4096            2.11
+8192            2.38
+16384           3.08
+32768           4.23
+65536           6.50
+131072         11.14
+262144         19.98
+524288         40.41
+1048576        91.72
+2097152       225.64
+4194304       513.66
+[1721029198.417581149] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029198.444679387] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029198.472041889] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029198.472811281] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029198.500195169] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029198.526796092] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029198.559792] [thin003:162148:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029198.559799] [thin003:162148:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029198.563103] [thin003:162148:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029198.563123] [thin003:162148:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.55
+2               0.54
+4               0.54
+8               0.54
+16              0.56
+32              0.56
+64              0.59
+128             0.66
+256             0.70
+512             0.76
+1024            0.89
+2048            0.97
+4096            2.23
+8192            2.50
+16384           3.20
+32768           4.24
+65536           6.51
+131072         10.96
+262144         20.23
+524288         41.65
+1048576        94.39
+2097152       225.14
+4194304       523.73
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029202.419738] [thin003:162169:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029202.419744] [thin003:162169:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029202.437390] [thin003:162169:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029202.437414] [thin003:162169:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.45
+2               0.44
+4               0.44
+8               0.44
+16              0.45
+32              0.45
+64              0.46
+128             0.50
+256             0.56
+512             0.67
+1024            0.77
+2048            0.88
+4096            2.14
+8192            2.46
+16384           3.15
+32768           4.33
+65536           6.62
+131072         11.37
+262144         20.36
+524288         40.95
+1048576        96.42
+2097152       225.63
+4194304       514.81
+[1721029206.177443160] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029206.204354729] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029206.231344286] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029206.231659093] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029206.258725659] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029206.285068758] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029206.317722] [thin003:162192:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029206.317738] [thin003:162192:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029206.321142] [thin003:162192:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029206.321164] [thin003:162192:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.58
+2               0.57
+4               0.58
+8               0.56
+16              0.58
+32              0.58
+64              0.58
+128             0.67
+256             0.72
+512             0.79
+1024            0.92
+2048            0.99
+4096            2.19
+8192            2.45
+16384           3.14
+32768           4.22
+65536           6.51
+131072         11.06
+262144         20.19
+524288         41.33
+1048576        97.79
+2097152       224.22
+4194304       518.08
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029210.173479] [thin003:162213:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029210.173486] [thin003:162213:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029210.191233] [thin003:162213:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029210.191258] [thin003:162213:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.46
+2               0.45
+4               0.45
+8               0.45
+16              0.47
+32              0.48
+64              0.49
+128             0.54
+256             0.59
+512             0.67
+1024            0.76
+2048            0.88
+4096            2.11
+8192            2.44
+16384           3.13
+32768           4.23
+65536           6.54
+131072         11.18
+262144         20.07
+524288         40.61
+1048576        92.85
+2097152       227.46
+4194304       519.67
+[1721029213.940349391] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029213.967645543] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029213.994424683] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029213.995560448] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029214.022537920] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029214.048624487] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029214.081418] [thin003:162236:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029214.081424] [thin003:162236:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029214.084664] [thin003:162236:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029214.084682] [thin003:162236:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.53
+4               0.53
+8               0.53
+16              0.54
+32              0.54
+64              0.55
+128             0.60
+256             0.68
+512             0.76
+1024            0.88
+2048            0.98
+4096            2.18
+8192            2.43
+16384           3.12
+32768           4.20
+65536           6.48
+131072         11.00
+262144         20.24
+524288         41.34
+1048576        95.63
+2097152       224.88
+4194304       529.48
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029217.935102] [thin003:162257:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029217.935109] [thin003:162257:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029217.952744] [thin003:162257:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029217.952769] [thin003:162257:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.45
+2               0.45
+4               0.45
+8               0.45
+16              0.47
+32              0.47
+64              0.49
+128             0.53
+256             0.56
+512             0.69
+1024            0.78
+2048            0.89
+4096            2.11
+8192            2.41
+16384           3.15
+32768           4.23
+65536           6.52
+131072         11.11
+262144         20.18
+524288         40.54
+1048576        93.91
+2097152       223.96
+4194304       502.75
+[1721029221.651854000] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029221.679009063] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029221.705792507] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029221.710469105] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029221.737167204] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029221.763617723] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029221.796678] [thin003:162280:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029221.796685] [thin003:162280:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029221.799939] [thin003:162280:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029221.799958] [thin003:162280:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.55
+2               0.53
+4               0.53
+8               0.53
+16              0.55
+32              0.55
+64              0.58
+128             0.64
+256             0.68
+512             0.76
+1024            0.87
+2048            0.96
+4096            2.19
+8192            2.44
+16384           3.12
+32768           4.22
+65536           6.52
+131072         10.98
+262144         20.31
+524288         41.12
+1048576        94.34
+2097152       224.47
+4194304       515.03
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029225.744184] [thin003:162304:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029225.744190] [thin003:162304:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029225.761993] [thin003:162304:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029225.762018] [thin003:162304:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.44
+2               0.44
+4               0.44
+8               0.44
+16              0.45
+32              0.45
+64              0.46
+128             0.51
+256             0.59
+512             0.68
+1024            0.77
+2048            0.87
+4096            2.14
+8192            2.42
+16384           3.13
+32768           4.23
+65536           6.55
+131072         11.28
+262144         20.38
+524288         40.83
+1048576        93.19
+2097152       225.76
+4194304       509.30
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029229.590339] [thin003:162327:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029229.590345] [thin003:162327:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029229.608132] [thin003:162327:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029229.608156] [thin003:162327:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.46
+2               0.46
+4               0.45
+8               0.45
+16              0.47
+32              0.47
+64              0.50
+128             0.54
+256             0.59
+512             0.71
+1024            0.80
+2048            0.89
+4096            2.10
+8192            2.41
+16384           3.12
+32768           4.22
+65536           6.55
+131072         11.20
+262144         20.50
+524288         40.96
+1048576        96.28
+2097152       223.53
+4194304       499.14
+[1721029233.304415609] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029233.331940910] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029233.358956045] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029233.359633082] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029233.386770114] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029233.413456632] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029233.446350] [thin003:162350:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029233.446357] [thin003:162350:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029233.449642] [thin003:162350:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029233.449661] [thin003:162350:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.54
+4               0.54
+8               0.54
+16              0.56
+32              0.56
+64              0.58
+128             0.62
+256             0.66
+512             0.79
+1024            0.89
+2048            0.96
+4096            2.24
+8192            2.51
+16384           3.16
+32768           4.20
+65536           6.47
+131072         11.03
+262144         20.22
+524288         41.20
+1048576        95.16
+2097152       222.35
+4194304       517.30
+[1721029237.193609483] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029237.222341948] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029237.249456035] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029237.253575628] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029237.280601673] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029237.307090647] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029237.340337] [thin003:162371:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029237.340344] [thin003:162371:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029237.343670] [thin003:162371:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029237.343689] [thin003:162371:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.53
+4               0.53
+8               0.53
+16              0.54
+32              0.54
+64              0.56
+128             0.60
+256             0.68
+512             0.76
+1024            0.88
+2048            0.98
+4096            2.18
+8192            2.42
+16384           3.10
+32768           4.18
+65536           6.47
+131072         11.01
+262144         20.32
+524288         41.67
+1048576        95.71
+2097152       223.60
+4194304       521.02
+[1721029241.082560350] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029241.109780330] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029241.136971423] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029241.137572069] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029241.164636831] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029241.190959528] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029241.224205] [thin003:162392:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029241.224211] [thin003:162392:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029241.227534] [thin003:162392:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029241.227553] [thin003:162392:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.54
+4               0.54
+8               0.54
+16              0.56
+32              0.57
+64              0.59
+128             0.63
+256             0.70
+512             0.77
+1024            0.87
+2048            0.98
+4096            2.19
+8192            2.45
+16384           3.14
+32768           4.21
+65536           6.48
+131072         11.01
+262144         20.18
+524288         41.36
+1048576        95.27
+2097152       223.19
+4194304       532.90
+[1721029245.002830464] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029245.029929902] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029245.056868459] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029245.061535557] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029245.088437546] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029245.114825070] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029245.148537] [thin003:162413:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029245.148543] [thin003:162413:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029245.151827] [thin003:162413:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029245.151846] [thin003:162413:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.55
+2               0.53
+4               0.53
+8               0.53
+16              0.54
+32              0.54
+64              0.56
+128             0.62
+256             0.69
+512             0.77
+1024            0.88
+2048            0.97
+4096            2.19
+8192            2.45
+16384           3.13
+32768           4.21
+65536           6.51
+131072         11.01
+262144         20.17
+524288         41.68
+1048576        94.15
+2097152       222.39
+4194304       514.40
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029248.980409] [thin003:162435:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029248.980415] [thin003:162435:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029248.998337] [thin003:162435:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029248.998362] [thin003:162435:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.44
+2               0.43
+4               0.43
+8               0.43
+16              0.44
+32              0.44
+64              0.45
+128             0.48
+256             0.57
+512             0.66
+1024            0.78
+2048            0.88
+4096            2.14
+8192            2.43
+16384           3.18
+32768           4.30
+65536           6.64
+131072         11.29
+262144         20.29
+524288         40.64
+1048576        95.08
+2097152       225.68
+4194304       506.42
+[1721029252.699596332] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029252.726766779] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029252.754200083] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029252.754511498] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029252.781702570] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029252.808041612] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029252.841289] [thin003:162458:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029252.841295] [thin003:162458:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029252.844602] [thin003:162458:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029252.844622] [thin003:162458:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.55
+2               0.54
+4               0.54
+8               0.54
+16              0.55
+32              0.55
+64              0.59
+128             0.64
+256             0.69
+512             0.79
+1024            0.87
+2048            0.99
+4096            2.17
+8192            2.43
+16384           3.12
+32768           4.17
+65536           6.46
+131072         10.92
+262144         20.30
+524288         41.40
+1048576        94.72
+2097152       224.68
+4194304       514.91
+[1721029256.577292482] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029256.604863434] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029256.631700677] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029256.636379055] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029256.663733677] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029256.690237338] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029256.723235] [thin003:162479:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029256.723241] [thin003:162479:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029256.726537] [thin003:162479:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029256.726557] [thin003:162479:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.53
+4               0.53
+8               0.53
+16              0.55
+32              0.55
+64              0.59
+128             0.65
+256             0.70
+512             0.75
+1024            0.87
+2048            0.99
+4096            2.19
+8192            2.45
+16384           3.11
+32768           4.20
+65536           6.48
+131072         10.98
+262144         20.26
+524288         41.06
+1048576        95.69
+2097152       223.41
+4194304       521.04
+[1721029260.479552647] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029260.506766715] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029260.533889652] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029260.534065376] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029260.561316446] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029260.587555609] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029260.620755] [thin003:162500:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029260.620761] [thin003:162500:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029260.624039] [thin003:162500:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029260.624060] [thin003:162500:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.53
+4               0.53
+8               0.53
+16              0.54
+32              0.54
+64              0.55
+128             0.60
+256             0.68
+512             0.77
+1024            0.91
+2048            0.97
+4096            2.19
+8192            2.45
+16384           3.15
+32768           4.22
+65536           6.50
+131072         11.07
+262144         20.18
+524288         41.58
+1048576        94.82
+2097152       223.65
+4194304       519.22
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029264.473771] [thin003:162523:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029264.473778] [thin003:162523:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029264.491462] [thin003:162523:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029264.491487] [thin003:162523:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.45
+2               0.44
+4               0.44
+8               0.44
+16              0.45
+32              0.45
+64              0.46
+128             0.49
+256             0.54
+512             0.64
+1024            0.77
+2048            0.88
+4096            2.10
+8192            2.41
+16384           3.11
+32768           4.24
+65536           6.58
+131072         11.25
+262144         20.45
+524288         40.99
+1048576        94.19
+2097152       225.32
+4194304       515.45
+[1721029268.215414199] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029268.242444116] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029268.255804100] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029268.269248025] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029268.282829496] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029268.309553175] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029268.342266] [thin003:162546:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029268.342272] [thin003:162546:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029268.345510] [thin003:162546:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029268.345529] [thin003:162546:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.53
+2               0.53
+4               0.53
+8               0.52
+16              0.53
+32              0.53
+64              0.54
+128             0.62
+256             0.67
+512             0.77
+1024            0.92
+2048            0.98
+4096            2.19
+8192            2.43
+16384           3.12
+32768           4.17
+65536           6.43
+131072         10.91
+262144         20.01
+524288         41.51
+1048576        96.68
+2097152       222.97
+4194304       527.34
+[1721029272.100165817] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029272.127313998] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029272.154126550] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029272.158431682] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029272.185346526] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029272.211467403] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029272.244634] [thin003:162567:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029272.244640] [thin003:162567:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029272.247952] [thin003:162567:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029272.247973] [thin003:162567:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.53
+4               0.54
+8               0.53
+16              0.55
+32              0.54
+64              0.56
+128             0.62
+256             0.67
+512             0.76
+1024            0.87
+2048            0.99
+4096            2.19
+8192            2.45
+16384           3.12
+32768           4.21
+65536           6.47
+131072         11.05
+262144         20.17
+524288         41.26
+1048576        94.89
+2097152       224.47
+4194304       526.28
+[1721029276.013526539] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029276.040570368] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029276.062514543] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029276.067574465] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029276.089604499] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029276.116097202] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029276.148943] [thin003:162588:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029276.148949] [thin003:162588:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029276.152265] [thin003:162588:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029276.152284] [thin003:162588:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.53
+2               0.54
+4               0.53
+8               0.53
+16              0.54
+32              0.55
+64              0.56
+128             0.63
+256             0.70
+512             0.76
+1024            0.89
+2048            0.99
+4096            2.18
+8192            2.44
+16384           3.14
+32768           4.20
+65536           6.48
+131072         11.04
+262144         20.08
+524288         41.17
+1048576        94.99
+2097152       224.44
+4194304       522.52
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029280.001945] [thin003:162609:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029280.001952] [thin003:162609:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029280.019738] [thin003:162609:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029280.019763] [thin003:162609:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.45
+2               0.44
+4               0.44
+8               0.45
+16              0.46
+32              0.45
+64              0.46
+128             0.54
+256             0.59
+512             0.66
+1024            0.79
+2048            0.90
+4096            2.13
+8192            2.40
+16384           3.13
+32768           4.28
+65536           6.60
+131072         11.24
+262144         20.22
+524288         40.71
+1048576        94.83
+2097152       224.99
+4194304       517.17
+[1721029283.883977957] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029283.911219900] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029283.938275777] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029283.942510432] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029283.969348396] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029283.995801866] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029284.028668] [thin003:162635:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029284.028675] [thin003:162635:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029284.031971] [thin003:162635:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029284.031990] [thin003:162635:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.52
+4               0.53
+8               0.53
+16              0.54
+32              0.55
+64              0.56
+128             0.58
+256             0.64
+512             0.77
+1024            0.89
+2048            1.00
+4096            2.17
+8192            2.45
+16384           3.13
+32768           4.21
+65536           6.45
+131072         11.04
+262144         20.26
+524288         41.72
+1048576        96.91
+2097152       222.95
+4194304       525.29
+[1721029287.790538187] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029287.817715706] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029287.844760460] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029287.845565324] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029287.873051602] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029287.899603512] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029287.932804] [thin003:162656:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029287.932810] [thin003:162656:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029287.936117] [thin003:162656:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029287.936137] [thin003:162656:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.54
+2               0.53
+4               0.53
+8               0.53
+16              0.54
+32              0.54
+64              0.55
+128             0.59
+256             0.67
+512             0.79
+1024            0.90
+2048            0.99
+4096            2.24
+8192            2.49
+16384           3.18
+32768           4.27
+65536           6.56
+131072         11.10
+262144         20.42
+524288         41.99
+1048576        95.93
+2097152       223.54
+4194304       522.27
+[1721029291.693941992] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029291.721985164] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029291.749198351] thin003.hpc.rd.areasciencepark.it:rank0.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029291.752709226] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029291.779587684] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029291.806040779] thin003.hpc.rd.areasciencepark.it:rank1.osu_latency_mp: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029291.839101] [thin003:162677:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029291.839107] [thin003:162677:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029291.842384] [thin003:162677:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029291.842404] [thin003:162677:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.52
+2               0.52
+4               0.52
+8               0.52
+16              0.53
+32              0.53
+64              0.54
+128             0.60
+256             0.67
+512             0.75
+1024            0.88
+2048            1.00
+4096            2.22
+8192            2.46
+16384           3.13
+32768           4.21
+65536           6.56
+131072         11.04
+262144         20.31
+524288         41.27
+1048576        97.08
+2097152       223.09
+4194304       518.79
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+[1721029295.690235] [thin003:162698:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029295.690242] [thin003:162698:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+[1721029295.707979] [thin003:162698:0]           ib_md.c:1232 UCX  WARN  IB: ibv_fork_init() was disabled or failed, yet a fork() has been issued.
+[1721029295.708003] [thin003:162698:0]           ib_md.c:1233 UCX  WARN  IB: data corruption might occur when using registered memory.
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1               0.46
+2               0.46
+4               0.46
+8               0.46
+16              0.47
+32              0.46
+64              0.47
+128             0.52
+256             0.58
+512             0.70
+1024            0.78
+2048            0.88
+4096            2.14
+8192            2.45
+16384           3.20
+32768           4.34
+65536           6.69
+131072         11.39
+262144         20.28
+524288         40.86
+1048576        94.02
+2097152       226.46
+4194304       521.46

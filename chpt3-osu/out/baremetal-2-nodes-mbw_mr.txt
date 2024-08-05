@@ -1,0 +1,906 @@
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.33         331772.77
+2                       0.64         318333.33
+4                       1.38         344152.95
+8                       2.82         352504.86
+16                      6.02         375949.37
+32                     11.89         371410.82
+64                     19.91         311055.02
+128                    40.39         315557.88
+256                    83.32         325487.44
+512                   161.67         315767.70
+1024                  304.11         296985.33
+2048                  564.96         275857.69
+4096                  987.06         240980.73
+8192                 1415.67         172810.80
+16384                2206.45         134671.20
+32768                2555.68          77993.02
+65536                1563.38          23855.28
+131072               2537.07          19356.30
+262144               3642.80          13896.18
+524288               3815.85           7278.15
+1048576              4518.83           4309.49
+2097152              3811.26           1817.35
+4194304              3851.39            918.24
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         379292.75
+2                       0.76         380863.56
+4                       1.51         377654.18
+8                       2.77         346533.24
+16                      5.45         340752.47
+32                     10.24         319986.34
+64                     19.63         306659.41
+128                    39.39         307726.44
+256                    82.41         321925.60
+512                   157.07         306772.73
+1024                  300.82         293771.93
+2048                  565.55         276147.21
+4096                  967.34         236167.49
+8192                 1418.82         173196.39
+16384                1741.45         106289.86
+32768                1934.07          59023.24
+65536                1723.76          26302.48
+131072               2281.00          17402.66
+262144               3008.49          11476.49
+524288               3946.21           7526.80
+1048576              4559.57           4348.34
+2097152              3700.41           1764.49
+4194304              3875.36            923.96
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.39         387026.34
+2                       0.76         378198.67
+4                       1.60         400619.66
+8                       3.14         392381.64
+16                      6.15         384393.62
+32                     10.61         331709.99
+64                     21.69         338872.65
+128                    46.03         359605.39
+256                    90.44         353283.59
+512                   164.95         322164.15
+1024                  320.54         313027.53
+2048                  609.63         297671.19
+4096                 1022.09         249534.43
+8192                 1472.72         179775.91
+16384                1745.33         106526.35
+32768                1939.33          59183.76
+65536                1831.65          27948.83
+131072               2515.69          19193.21
+262144               3234.23          12337.61
+524288               4013.47           7655.08
+1048576              4478.73           4271.25
+2097152              3987.01           1901.15
+4194304              4090.04            975.14
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.36         358650.47
+2                       0.71         354655.60
+4                       1.40         350026.98
+8                       2.80         350421.15
+16                      5.70         356550.47
+32                     11.71         365901.40
+64                     21.39         334215.56
+128                    42.56         332511.20
+256                    81.35         317761.80
+512                   159.07         310679.78
+1024                  305.10         297950.38
+2048                  562.90         274852.20
+4096                  977.15         238561.15
+8192                 1438.78         175632.24
+16384                1737.00         106018.07
+32768                1930.43          58911.99
+65536                2185.81          33352.76
+131072               2375.27          18121.90
+262144               2660.93          10150.65
+524288               2808.91           5357.57
+1048576              2904.84           2770.27
+2097152              3310.22           1578.44
+4194304              3272.84            780.31
+[1721028611.301094482] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028611.306302087] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028611.327734393] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028611.333601573] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028611.354167731] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028611.359895710] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         379438.89
+2                       0.74         367687.19
+4                       1.47         366795.16
+8                       3.14         392130.79
+16                      6.21         387959.08
+32                     11.60         362607.12
+64                     19.70         307884.54
+128                    44.54         347982.83
+256                    89.75         350567.91
+512                   167.83         327798.59
+1024                  316.38         308962.23
+2048                  609.30         297507.79
+4096                 1025.81         250441.42
+8192                 1467.06         179084.17
+16384                1739.00         106140.18
+32768                1924.65          58735.80
+65536                2132.57          32540.43
+131072               3615.66          27585.30
+262144               3269.77          12473.19
+524288               5157.47           9837.09
+1048576              4772.83           4551.73
+2097152              4399.97           2098.07
+4194304              4407.45           1050.82
+[1721028627.185835662] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028627.194773544] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028627.212029592] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028627.221891797] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028627.237868538] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028627.248444064] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.39         387123.33
+2                       0.78         389380.69
+4                       1.54         384087.89
+8                       3.08         384476.08
+16                      6.05         378359.22
+32                     12.37         386408.91
+64                     22.04         344302.91
+128                    45.94         358929.90
+256                    90.17         352231.24
+512                   171.20         334381.53
+1024                  324.17         316572.89
+2048                  598.34         292158.19
+4096                 1022.01         249515.31
+8192                 1432.42         174855.50
+16384                1823.88         111320.67
+32768                1847.11          56369.43
+65536                1821.48          27793.54
+131072               3035.12          23156.11
+262144               3462.35          13207.80
+524288               4293.20           8188.64
+1048576              3987.03           3802.33
+2097152              4223.94           2014.13
+4194304              4042.32            963.76
+[1721028644.410575954] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028644.417001922] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028644.437013445] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028644.444047090] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028644.462824566] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028644.470504266] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         381366.05
+2                       0.75         374967.01
+4                       1.61         402748.25
+8                       3.19         398411.53
+16                      6.18         386058.02
+32                     12.16         379905.20
+64                     22.26         347775.07
+128                    45.81         357910.61
+256                    89.70         350386.67
+512                   170.55         333097.96
+1024                  325.27         317646.05
+2048                  602.42         294149.90
+4096                 1034.12         252470.83
+8192                 1472.58         179758.05
+16384                1726.19         105358.29
+32768                1925.66          58766.53
+65536                1488.56          22713.57
+131072               2793.83          21315.27
+262144               3529.31          13463.24
+524288               3746.03           7144.99
+1048576              4542.49           4332.05
+2097152              3929.19           1873.59
+4194304              3814.62            909.48
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.37         368027.52
+2                       0.69         347079.49
+4                       1.21         301443.12
+8                       2.83         353323.12
+16                      5.98         373966.53
+32                     12.28         383814.20
+64                     19.84         310063.86
+128                    40.94         319805.25
+256                    83.59         326541.19
+512                   162.83         318023.28
+1024                  304.86         297712.22
+2048                  567.93         277308.57
+4096                  981.46         239614.63
+8192                 1425.40         173998.60
+16384                1723.42         105189.32
+32768                1922.40          58667.04
+65536                1593.55          24315.68
+131072               2513.11          19173.54
+262144               2889.23          11021.54
+524288               3099.26           5911.37
+1048576              3716.04           3543.89
+2097152              3812.68           1818.03
+4194304              3831.61            913.53
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.36         358672.46
+2                       0.67         334158.90
+4                       1.38         345303.25
+8                       2.84         354530.29
+16                      6.04         377484.11
+32                     11.98         374357.63
+64                     19.83         309878.85
+128                    40.65         317573.53
+256                    81.58         318673.09
+512                   160.58         313630.19
+1024                  302.57         295481.74
+2048                  562.18         274501.59
+4096                  977.25         238585.57
+8192                 1428.02         174319.26
+16384                1726.09         105352.39
+32768                1923.48          58699.91
+65536                1690.75          25798.80
+131072               2438.66          18605.48
+262144               3633.27          13859.81
+524288               3577.88           6824.27
+1048576              4111.39           3920.93
+2097152              4072.85           1942.09
+4194304              4027.19            960.16
+[1721028698.307559922] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028698.322264212] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028698.334161970] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028698.349512741] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028698.360136696] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028698.376181608] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.35         349327.65
+2                       0.63         313074.57
+4                       1.35         337426.46
+8                       2.83         353267.34
+16                      5.90         368937.58
+32                     11.71         365818.03
+64                     18.78         293418.06
+128                    42.83         334596.71
+256                    83.26         325226.78
+512                   162.74         317846.29
+1024                  305.46         298302.06
+2048                  562.75         274778.32
+4096                  975.30         238109.80
+8192                 1402.19         171165.40
+16384                1709.60         104345.88
+32768                1927.46          58821.53
+65536                1563.27          23853.62
+131072               2597.67          19818.66
+262144               3342.03          12748.85
+524288               4438.97           8466.66
+1048576              3957.80           3774.45
+2097152              4099.73           1954.91
+4194304              4178.18            996.16
+[1721028715.381190992] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028715.382609684] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028715.407917613] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028715.409854043] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028715.434001974] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028715.436300237] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.39         385537.85
+2                       0.60         301401.29
+4                       1.21         302692.25
+8                       3.06         382854.42
+16                      5.99         374267.34
+32                     11.99         374564.67
+64                     19.85         310190.96
+128                    43.34         338592.15
+256                    82.66         322901.04
+512                   158.51         309595.86
+1024                  305.28         298120.17
+2048                  566.55         276637.35
+4096                  973.28         237617.88
+8192                 1434.53         175113.53
+16384                2240.01         136719.20
+32768                2585.19          78893.88
+65536                1662.06          25361.03
+131072               2632.88          20087.26
+262144               3275.28          12494.20
+524288               3417.79           6518.92
+1048576              3406.78           3248.96
+2097152              3725.53           1776.47
+4194304              3664.36            873.65
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.36         358372.40
+2                       0.69         343710.08
+4                       1.38         345047.67
+8                       2.84         354862.86
+16                      6.02         376425.35
+32                     12.21         381420.76
+64                     20.00         312523.33
+128                    40.47         316146.10
+256                    80.31         313724.12
+512                   154.10         300970.85
+1024                  291.92         285080.44
+2048                  571.69         279147.11
+4096                  980.61         239406.72
+8192                 1430.85         174664.81
+16384                1749.57         106785.18
+32768                1920.20          58599.82
+65536                1719.75          26241.37
+131072               2806.91          21415.01
+262144               3731.45          14234.34
+524288               3630.87           6925.33
+1048576              4109.17           3918.81
+2097152              4080.38           1945.68
+4194304              3962.36            944.70
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.36         361137.21
+2                       0.71         354008.42
+4                       1.39         347661.87
+8                       2.83         354302.47
+16                      5.95         372058.74
+32                     12.10         378115.64
+64                     19.76         308691.79
+128                    40.64         317466.66
+256                    82.84         323575.17
+512                   163.21         318763.99
+1024                  301.98         294904.48
+2048                  566.39         276557.56
+4096                  978.53         238900.10
+8192                 1424.74         173918.71
+16384                2254.49         137603.03
+32768                2580.17          78740.63
+65536                1792.07          27344.79
+131072               2609.84          19911.54
+262144               3179.87          12130.23
+524288               3154.16           6016.09
+1048576              4520.82           4311.39
+2097152              3862.31           1841.69
+4194304              3922.19            935.12
+[1721028769.674514596] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028769.676458920] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028769.701817945] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028769.703343442] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028769.729309204] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028769.728505809] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.36         356201.07
+2                       0.66         327932.19
+4                       1.37         342846.23
+8                       2.83         354371.27
+16                      6.01         375537.93
+32                     12.20         381114.74
+64                     19.39         302913.96
+128                    43.39         338985.15
+256                    82.90         323825.40
+512                   158.35         309273.68
+1024                  303.42         296307.61
+2048                  562.92         274865.31
+4096                  967.85         236291.96
+8192                 1418.38         173141.88
+16384                1735.21         105909.03
+32768                1923.22          58692.05
+65536                1799.91          27464.50
+131072               2282.29          17412.46
+262144               3289.05          12546.71
+524288               3971.31           7574.67
+1048576              4263.11           4065.62
+2097152              3691.69           1760.33
+4194304              3863.76            921.19
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         378311.41
+2                       0.76         381311.20
+4                       1.50         373851.65
+8                       2.80         350010.74
+16                      5.51         344668.47
+32                      9.88         308824.22
+64                     19.59         306136.49
+128                    38.87         303680.08
+256                    82.35         321660.98
+512                   155.95         304582.87
+1024                  294.40         287495.82
+2048                  569.67         278158.56
+4096                  968.73         236506.87
+8192                 1417.32         173012.70
+16384                1724.69         105266.54
+32768                1926.53          58792.94
+65536                1648.72          25157.50
+131072               2522.54          19245.42
+262144               3255.95          12420.45
+524288               3716.03           7087.76
+1048576              4239.16           4042.78
+2097152              3779.22           1802.07
+4194304              3891.53            927.81
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.35         352865.21
+2                       0.66         332022.91
+4                       1.38         345244.82
+8                       2.83         354137.92
+16                      6.03         376705.87
+32                     12.15         379681.22
+64                     19.91         311143.99
+128                    41.13         321289.08
+256                    82.36         321712.82
+512                   163.07         318489.28
+1024                  300.01         292978.73
+2048                  558.28         272599.07
+4096                  988.10         241236.32
+8192                 1435.41         175220.45
+16384                1733.99         105834.54
+32768                1922.31          58664.35
+65536                1743.28          26600.41
+131072               2642.49          20160.57
+262144               3242.21          12368.05
+524288               4725.61           9013.38
+1048576              5000.93           4769.26
+2097152              4528.20           2159.22
+4194304              3960.19            944.18
+[1721028822.455500983] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028822.458899181] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028822.481725364] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028822.486082532] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028822.507501571] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028822.512272532] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         380481.24
+2                       0.74         369275.00
+4                       1.41         351491.63
+8                       2.97         371853.55
+16                      6.18         386238.68
+32                     12.46         389511.98
+64                     21.45         335112.82
+128                    46.33         361938.07
+256                    94.68         369833.36
+512                   170.15         332316.76
+1024                  316.65         309224.35
+2048                  595.10         290576.72
+4096                 1027.35         250818.52
+8192                 1468.98         179318.68
+16384                1738.06         106082.90
+32768                1916.65          58491.57
+65536                2017.17          30779.54
+131072               2456.53          18741.80
+262144               3413.20          13020.34
+524288               3795.38           7239.12
+1048576              4198.25           4003.77
+2097152              3764.56           1795.08
+4194304              3979.75            948.85
+[1721028840.283704914] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028840.299181974] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028840.310296397] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028840.326257100] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028840.336372676] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028840.352745242] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.36         361327.95
+2                       0.66         331715.15
+4                       1.37         343002.54
+8                       2.82         352830.55
+16                      6.03         376580.82
+32                     12.06         376848.37
+64                     19.81         309495.58
+128                    42.64         333092.29
+256                    82.26         321317.76
+512                   161.42         315271.36
+1024                  304.29         297161.97
+2048                  572.07         279331.19
+4096                  981.78         239691.92
+8192                 1434.35         175091.10
+16384                1723.67         105204.30
+32768                1914.44          58424.07
+65536                1758.12          26826.78
+131072               2476.99          18897.90
+262144               3065.95          11695.66
+524288               3546.70           6764.80
+1048576              4005.69           3820.13
+2097152              3851.66           1836.61
+4194304              3961.16            944.41
+[1721028858.199438639] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028858.209601031] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028858.226057337] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028858.236710598] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028858.252431469] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028858.263070127] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         382929.80
+2                       0.78         390384.75
+4                       1.46         365238.39
+8                       2.83         353212.73
+16                      5.50         343834.19
+32                     11.29         352911.44
+64                     19.65         307046.89
+128                    38.92         304025.93
+256                    82.57         322541.92
+512                   157.92         308440.83
+1024                  299.22         292206.66
+2048                  563.93         275358.14
+4096                  972.54         237437.06
+8192                 1412.61         172437.32
+16384                1737.14         106026.42
+32768                1910.14          58292.83
+65536                1757.17          26812.30
+131072               2614.26          19945.22
+262144               3300.00          12588.49
+524288               3725.73           7106.26
+1048576              4113.15           3922.60
+2097152              3720.93           1774.28
+4194304              3876.64            924.26
+[1721028876.176520027] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028876.185389535] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028876.203141335] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028876.212361620] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028876.229413954] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028876.238502749] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.35         352737.07
+2                       0.68         341583.81
+4                       1.32         329861.40
+8                       2.83         353462.86
+16                      5.99         374575.52
+32                     12.05         376630.43
+64                     19.84         309923.19
+128                    41.56         324686.76
+256                    82.26         321340.83
+512                   161.46         315343.20
+1024                  303.92         296793.40
+2048                  564.82         275790.47
+4096                  975.72         238214.03
+8192                 1427.75         174285.95
+16384                2175.44         132778.31
+32768                2561.94          78184.22
+65536                1896.46          28937.68
+131072               3140.81          23962.46
+262144               3192.12          12176.98
+524288               3908.88           7455.59
+1048576              4271.34           4073.47
+2097152              4143.18           1975.62
+4194304              4095.52            976.45
+[1721028893.242286846] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028893.253630276] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028893.268880989] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028893.280418771] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028893.294937666] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028893.306670593] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         381885.89
+2                       0.75         375884.61
+4                       1.41         353332.13
+8                       2.97         371611.40
+16                      6.08         380302.27
+32                     11.84         370068.08
+64                     22.93         358251.46
+128                    46.91         366456.94
+256                    93.03         363407.91
+512                   169.69         331427.71
+1024                  326.25         318607.94
+2048                  606.60         296190.85
+4096                 1033.94         252427.79
+8192                 1484.57         181222.53
+16384                2257.64         137795.47
+32768                2585.93          78916.20
+65536                1772.24          27042.23
+131072               2223.34          16962.76
+262144               2225.69           8490.33
+524288               3329.24           6350.02
+1048576              4417.89           4213.23
+2097152              4022.98           1918.31
+4194304              4125.81            983.67
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.32         315172.60
+2                       0.64         321721.29
+4                       1.29         321988.93
+8                       2.76         345606.13
+16                      6.13         382951.62
+32                     11.99         374648.78
+64                     19.45         303915.21
+128                    42.75         333972.14
+256                    83.05         324424.09
+512                   162.94         318238.58
+1024                  304.63         297492.13
+2048                  568.39         277533.70
+4096                  980.56         239393.49
+8192                 1376.00         167968.90
+16384                2208.85         134817.75
+32768                2533.42          77313.96
+65536                1708.91          26075.82
+131072               2476.24          18892.19
+262144               3070.97          11714.81
+524288               3276.44           6249.32
+1048576              3846.74           3668.54
+2097152              4001.94           1908.28
+4194304              4054.24            966.61
+[1721028928.693069910] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028928.697262343] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028928.720030757] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028928.724536607] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028928.746420564] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028928.751207660] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         379956.17
+2                       0.75         374610.49
+4                       1.45         361489.18
+8                       2.83         353192.38
+16                      5.37         335916.92
+32                      9.84         307403.97
+64                     19.47         304224.12
+128                    39.12         305613.21
+256                    83.50         326173.19
+512                   155.21         303144.60
+1024                  297.99         291010.60
+2048                  565.27         276008.38
+4096                  957.15         233678.17
+8192                 1380.13         168472.37
+16384                2248.84         137258.21
+32768                2566.61          78326.75
+65536                3052.01          46569.94
+131072               3009.62          22961.58
+262144               2662.90          10158.17
+524288               2684.98           5121.19
+1048576              4235.58           4039.36
+2097152              4307.85           2054.14
+4194304              4275.33           1019.32
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.30         299059.98
+2                       0.60         299232.73
+4                       1.26         314662.82
+8                       2.83         354177.12
+16                      6.02         376205.16
+32                     12.33         385235.98
+64                     19.78         309120.85
+128                    39.94         311997.60
+256                    83.45         325967.64
+512                   162.53         317440.41
+1024                  300.96         293902.42
+2048                  565.35         276048.63
+4096                  983.34         240072.99
+8192                 1403.00         171264.11
+16384                1719.78         104967.00
+32768                1897.22          57898.48
+65536                1709.87          26090.49
+131072               2603.06          19859.80
+262144               3380.48          12895.51
+524288               3156.07           6019.73
+1048576              3915.40           3734.01
+2097152              3800.21           1812.08
+4194304              3925.64            935.94
+[1721028963.965031790] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028963.974503442] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028963.991542550] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028964.001378342] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028964.017823361] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721028964.027727967] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.35         351048.56
+2                       0.69         343983.83
+4                       1.37         341930.68
+8                       2.83         353191.25
+16                      5.79         361587.66
+32                     11.91         372179.84
+64                     19.64         306830.16
+128                    41.50         324204.79
+256                    82.93         323958.55
+512                   160.45         313380.13
+1024                  301.28         294220.39
+2048                  568.48         277578.87
+4096                  980.01         239260.43
+8192                 1428.92         174428.65
+16384                1738.48         106108.49
+32768                1934.75          59043.81
+65536                1480.31          22587.71
+131072               2839.94          21667.03
+262144               3203.40          12219.98
+524288               3809.70           7266.42
+1048576              4803.52           4580.99
+2097152              3986.84           1901.08
+4194304              4114.30            980.93
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.30         297369.35
+2                       0.64         321038.95
+4                       1.40         350843.55
+8                       2.92         364477.40
+16                      5.97         372968.52
+32                     11.51         359538.95
+64                     19.81         309484.43
+128                    40.40         315636.13
+256                    83.17         324895.48
+512                   163.42         319181.05
+1024                  300.47         293425.51
+2048                  562.03         274428.39
+4096                  970.56         236953.99
+8192                 1378.65         168292.01
+16384                1790.93         109309.77
+32768                2277.28          69497.13
+65536                1597.61          24377.67
+131072               2780.42          21212.92
+262144               3232.83          12332.25
+524288               3273.80           6244.28
+1048576              4285.84           4087.30
+2097152              4009.01           1911.65
+4194304              4050.64            965.75
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.39         391925.67
+2                       0.77         387018.46
+4                       1.41         352074.88
+8                       3.00         374625.14
+16                      6.21         388345.13
+32                     12.53         391460.56
+64                     21.35         333668.71
+128                    44.92         350964.90
+256                    91.59         357784.03
+512                   170.38         332764.01
+1024                  322.24         314684.29
+2048                  597.54         291766.61
+4096                 1018.98         248773.27
+8192                 1412.79         172459.90
+16384                2263.15         138131.83
+32768                2571.97          78490.18
+65536                1714.61          26162.92
+131072               2642.98          20164.35
+262144               3206.58          12232.12
+524288               4541.30           8661.84
+1048576              4629.50           4415.04
+2097152              3962.87           1889.64
+4194304              4085.65            974.09
+[1721029015.663731270] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029015.674709209] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029015.690414719] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029015.701729654] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029015.716650798] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029015.728061284] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.36         359494.68
+2                       0.67         335844.75
+4                       1.37         343014.84
+8                       2.85         355686.67
+16                      5.96         372285.36
+32                     12.21         381510.98
+64                     20.97         327662.79
+128                    41.09         321022.12
+256                    83.49         326139.01
+512                   161.85         316111.67
+1024                  300.08         293044.77
+2048                  565.41         276078.76
+4096                  977.75         238707.72
+8192                 1428.09         174327.81
+16384                1816.14         110848.54
+32768                1914.32          58420.46
+65536                1516.33          23137.34
+131072               2357.26          17984.47
+262144               3489.95          13313.12
+524288               4069.46           7761.87
+1048576              4082.27           3893.16
+2097152              3876.80           1848.60
+4194304              4105.46            978.82
+[1721029033.164888154] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029033.176583022] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029033.191479085] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029033.203307754] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029033.217787006] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029033.229369333] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.38         378022.82
+2                       0.78         390246.57
+4                       1.56         389952.96
+8                       3.07         383864.84
+16                      6.10         381410.25
+32                     12.26         383015.99
+64                     22.18         346500.74
+128                    44.78         349852.72
+256                    88.43         345413.99
+512                   169.92         331874.73
+1024                  326.91         319243.92
+2048                  601.85         293873.59
+4096                 1022.26         249575.19
+8192                 1457.76         177948.75
+16384                1737.87         106071.35
+32768                1927.74          58830.07
+65536                1717.57          26207.98
+131072               2992.74          22832.79
+262144               3741.15          14271.35
+524288               3627.57           6919.04
+1048576              4567.97           4356.35
+2097152              4526.89           2158.59
+4194304              4225.65           1007.47
+[1721029049.573680851] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029049.580645209] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029049.600219010] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029049.607780965] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029049.626354377] thin004.hpc.rd.areasciencepark.it:rank1.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+[1721029049.633880315] thin003.hpc.rd.areasciencepark.it:rank0.osu_mbw_mr: Failed to modify UD QP to INIT on mlx5_0: Operation not permitted
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.31         306586.30
+2                       0.60         301534.21
+4                       1.21         302616.57
+8                       3.10         387138.67
+16                      5.74         358649.49
+32                     12.26         383145.36
+64                     19.35         302278.34
+128                    42.96         335591.69
+256                    82.85         323637.92
+512                   159.67         311849.49
+1024                  307.26         300055.90
+2048                  563.73         275259.42
+4096                  968.50         236450.45
+8192                 1414.99         172728.61
+16384                1677.90         102411.08
+32768                1854.56          56596.62
+65536                1711.97          26122.57
+131072               2514.62          19185.05
+262144               3433.25          13096.82
+524288               4113.06           7845.04
+1048576              4108.87           3918.52
+2097152              3876.64           1848.52
+4194304              3927.94            936.49
