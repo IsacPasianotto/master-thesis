@@ -13,7 +13,7 @@ spec:
       replicas: 1
       template:
         spec:
-          nodeName: kprod-00.kub.rd.areasciencepark.it
+          nodeName: virt-orfeo-isac.hpc
           containers:
           - image: pasianeight/osu-benchmark:7.4
             imagePullPolicy: IfNotPresent
@@ -33,7 +33,7 @@ spec:
           labels:
             app: osu-worker
         spec:
-          nodeName: kprod-01.kub.rd.areasciencepark.it
+          nodeName: thin003.hpc.rd.areasciencepark.it
           containers:
           - image: pasianeight/osu-benchmark:7.4
             imagePullPolicy: IfNotPresent
