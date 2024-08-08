@@ -1,7 +1,7 @@
 apiVersion: kubeflow.org/v2beta1
 kind: MPIJob
 metadata:
-  name: osu-latency-single-node
+  name: osu-bibw-single-node
 spec:
   slotsPerWorker: 1
   runPolicy:
@@ -13,9 +13,10 @@ spec:
       replicas: 1
       template:
         spec:
-          nodeName: virt-orfeo-isac.hpc
+          # nodeName: virt-orfeo-isac.hpc
+          nodeName: kprod-00.kub.rd.areasciencepark.it
           containers:
-          - image: pasianeight/osu-benchmark:7.4
+          - image: pasianeight/osu-benchmark:deb12
             imagePullPolicy: IfNotPresent
             name: osu-launcher
             securityContext:
@@ -33,9 +34,10 @@ spec:
           labels:
             app: osu-worker
         spec:
-          nodeName: thin003.hpc.rd.areasciencepark.it
+          # nodeName: thin003.hpc.rd.areasciencepark.it
+          nodeName: kprod-01.kub.rd.areasciencepark.it 
           containers:
-          - image: pasianeight/osu-benchmark:7.4
+          - image: pasianeight/osu-benchmark:deb12
             imagePullPolicy: IfNotPresent
             name: osu-worker
             securityContext:
