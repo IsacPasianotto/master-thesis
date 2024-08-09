@@ -25,7 +25,7 @@ spec:
             args:
             - -n
             - "2"
-            - /home/mpiuser/osu/libexec/osu-micro-benchmarks/mpi/pt2pt/osu_multi-lat
+            - /home/mpiuser/osu/libexec/osu-micro-benchmarks/mpi/pt2pt/osu_multi_lat
     Worker:
       replicas: 2
       template:
