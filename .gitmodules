@@ -1,3 +1,0 @@
-[submodule "chpt4-dask"]
-	path = chpt4-dask
-	url = https://github.com/IsacPasianotto/dask-bench.git
