@@ -1,0 +1,930 @@
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              68.23
+2              68.12
+4              68.03
+8              68.04
+16             68.04
+32             68.20
+64             68.81
+128            68.89
+256            68.87
+512            41.69
+1024           42.18
+2048           77.75
+4096           77.58
+8192           82.14
+16384          91.88
+32768         127.45
+65536         300.22
+131072        427.86
+262144        649.68
+524288       1063.59
+1048576      1921.96
+2097152      3461.30
+4194304      6451.19
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.78
+2              67.83
+4              67.82
+8              67.84
+16             67.85
+32             67.99
+64             68.72
+128            68.63
+256            68.84
+512            41.45
+1024           41.90
+2048           77.87
+4096           77.42
+8192           81.88
+16384          91.34
+32768         125.39
+65536         296.52
+131072        425.76
+262144        649.21
+524288       1062.01
+1048576      1917.99
+2097152      3297.35
+4194304      6447.47
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              68.12
+2              68.06
+4              68.00
+8              67.98
+16             67.98
+32             68.05
+64             68.88
+128            68.89
+256            68.83
+512            41.53
+1024           42.19
+2048           79.20
+4096           78.50
+8192           82.43
+16384          92.75
+32768         127.50
+65536         297.83
+131072        426.18
+262144        649.15
+524288       1060.19
+1048576      1919.13
+2097152      3289.54
+4194304      6458.15
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.72
+2              67.73
+4              67.77
+8              67.74
+16             67.62
+32             67.78
+64             68.41
+128            68.55
+256            68.49
+512            41.35
+1024           42.00
+2048           81.21
+4096           79.12
+8192           82.03
+16384          91.70
+32768         127.63
+65536         297.15
+131072        425.70
+262144        649.21
+524288       1060.72
+1048576      1915.34
+2097152      3304.57
+4194304      6465.27
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.83
+2              67.44
+4              67.39
+8              67.73
+16             68.02
+32             68.56
+64             69.02
+128            68.74
+256            68.38
+512            41.34
+1024           41.65
+2048           80.75
+4096           80.19
+8192           81.95
+16384          91.96
+32768         127.00
+65536         296.05
+131072        426.57
+262144        647.76
+524288       1015.46
+1048576      1834.10
+2097152      3469.73
+4194304      6493.92
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              46.24
+2              46.31
+4              46.21
+8              46.22
+16             46.22
+32             46.27
+64             46.58
+128            46.57
+256            46.54
+512            43.62
+1024           44.91
+2048           44.75
+4096           48.55
+8192           51.02
+16384          56.73
+32768          77.82
+65536         175.74
+131072        212.78
+262144        295.07
+524288        494.79
+1048576       834.91
+2097152      1571.40
+4194304      3328.86
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.89
+2              67.93
+4              67.90
+8              67.37
+16             67.41
+32             67.65
+64             68.36
+128            68.34
+256            68.43
+512            41.08
+1024           41.41
+2048           80.06
+4096           79.62
+8192           82.23
+16384          92.36
+32768         125.97
+65536         296.69
+131072        428.56
+262144        646.30
+524288       1060.18
+1048576      1915.85
+2097152      3299.53
+4194304      6474.68
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.49
+2              67.47
+4              67.37
+8              67.62
+16             67.52
+32             67.74
+64             68.29
+128            68.39
+256            68.42
+512            41.34
+1024           41.75
+2048           80.11
+4096           77.90
+8192           82.00
+16384          92.13
+32768         126.85
+65536         299.40
+131072        425.10
+262144        649.61
+524288       1062.15
+1048576      1917.15
+2097152      3298.64
+4194304      6461.24
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              68.01
+2              68.27
+4              68.02
+8              68.04
+16             68.17
+32             68.26
+64             68.66
+128            68.84
+256            68.84
+512            41.38
+1024           42.00
+2048           80.41
+4096           80.16
+8192           82.10
+16384          92.16
+32768         127.66
+65536         296.59
+131072        425.48
+262144        649.53
+524288       1061.70
+1048576      1917.97
+2097152      3317.60
+4194304      6468.97
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.91
+2              67.91
+4              67.85
+8              67.88
+16             67.94
+32             67.95
+64             68.61
+128            68.81
+256            69.07
+512            41.35
+1024           41.95
+2048           81.89
+4096           82.50
+8192           82.81
+16384          92.72
+32768         127.49
+65536         297.17
+131072        426.01
+262144        648.09
+524288        998.84
+1048576      1916.76
+2097152      3307.62
+4194304      6450.88
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.77
+2              67.84
+4              67.80
+8              67.82
+16             67.77
+32             68.03
+64             68.68
+128            68.68
+256            68.67
+512            41.34
+1024           41.81
+2048           81.58
+4096           79.83
+8192           82.23
+16384          92.03
+32768         127.78
+65536         297.38
+131072        426.99
+262144        649.44
+524288       1016.14
+1048576      1833.60
+2097152      3322.33
+4194304      6461.69
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.67
+2              67.59
+4              67.63
+8              67.75
+16             67.61
+32             67.76
+64             67.92
+128            68.64
+256            68.60
+512            41.51
+1024           41.76
+2048           78.38
+4096           78.28
+8192           80.71
+16384          91.39
+32768         127.57
+65536         296.60
+131072        418.29
+262144        648.52
+524288        925.16
+1048576      1822.76
+2097152      3290.49
+4194304      6431.42
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              68.01
+2              68.07
+4              68.02
+8              67.93
+16             68.16
+32             68.12
+64             68.67
+128            68.98
+256            68.83
+512            42.16
+1024           42.65
+2048           79.65
+4096           79.68
+8192           82.36
+16384          92.44
+32768         127.13
+65536         286.93
+131072        428.83
+262144        650.78
+524288       1067.26
+1048576      1925.05
+2097152      3647.61
+4194304      6491.73
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.61
+2              68.25
+4              67.10
+8              68.05
+16             67.34
+32             67.84
+64             68.29
+128            67.63
+256            68.50
+512            41.18
+1024           41.91
+2048           78.06
+4096           79.75
+8192           80.27
+16384          92.57
+32768         127.73
+65536         291.38
+131072        418.83
+262144        646.83
+524288        954.42
+1048576      1837.28
+2097152      3299.82
+4194304      6444.21
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              66.97
+2              68.10
+4              67.86
+8              67.09
+16             68.40
+32             68.18
+64             68.68
+128            68.23
+256            68.52
+512            41.35
+1024           41.71
+2048           81.11
+4096           79.74
+8192           82.01
+16384          80.43
+32768         116.37
+65536         297.36
+131072        426.22
+262144        648.97
+524288       1016.45
+1048576      1837.80
+2097152      3469.68
+4194304      6792.47
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.76
+2              67.77
+4              67.72
+8              67.76
+16             67.70
+32             67.88
+64             68.45
+128            68.52
+256            68.85
+512            41.74
+1024           42.03
+2048           80.69
+4096           80.55
+8192           82.29
+16384          92.76
+32768         127.86
+65536         297.06
+131072        427.50
+262144        649.03
+524288       1063.00
+1048576      1922.35
+2097152      3307.11
+4194304      6464.42
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.80
+2              67.67
+4              67.63
+8              66.49
+16             67.02
+32             67.72
+64             67.36
+128            68.35
+256            68.59
+512            41.93
+1024           43.75
+2048           81.23
+4096           80.20
+8192           81.82
+16384          91.69
+32768         126.55
+65536         295.82
+131072        426.56
+262144        647.35
+524288       1016.48
+1048576      1832.58
+2097152      3310.00
+4194304      6466.29
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.61
+2              67.72
+4              67.56
+8              67.54
+16             67.57
+32             67.83
+64             68.35
+128            68.56
+256            68.80
+512            41.38
+1024           42.52
+2048           80.47
+4096           79.91
+8192           81.97
+16384          92.08
+32768         127.16
+65536         296.61
+131072        425.72
+262144        647.48
+524288       1060.11
+1048576      1891.00
+2097152      3290.86
+4194304      6455.45
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.72
+2              67.11
+4              67.72
+8              67.71
+16             67.63
+32             67.02
+64             68.67
+128            68.76
+256            67.68
+512            41.40
+1024           41.92
+2048           79.55
+4096           78.13
+8192           82.14
+16384          91.68
+32768         126.69
+65536         296.28
+131072        425.84
+262144        635.22
+524288       1015.99
+1048576      1830.07
+2097152      3301.75
+4194304      6445.79
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.72
+2              67.77
+4              67.73
+8              66.98
+16             67.50
+32             67.88
+64             68.53
+128            68.74
+256            68.75
+512            41.50
+1024           41.95
+2048           80.32
+4096           78.65
+8192           81.84
+16384          91.78
+32768         127.69
+65536         297.47
+131072        422.48
+262144        616.18
+524288       1030.66
+1048576      1922.36
+2097152      3490.48
+4194304      6477.03
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.98
+2              68.04
+4              68.12
+8              67.68
+16             67.64
+32             67.77
+64             68.39
+128            67.94
+256            68.62
+512            41.55
+1024           42.01
+2048           82.46
+4096           80.71
+8192           81.94
+16384          91.57
+32768         126.70
+65536         296.51
+131072        426.34
+262144        648.50
+524288       1014.73
+1048576      1833.72
+2097152      3295.70
+4194304      6436.95
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.54
+2              66.74
+4              67.53
+8              67.54
+16             66.67
+32             67.70
+64             68.50
+128            68.48
+256            68.48
+512            41.45
+1024           41.72
+2048           78.37
+4096           77.48
+8192           81.98
+16384          91.79
+32768         127.65
+65536         298.56
+131072        426.47
+262144        647.28
+524288       1057.71
+1048576      1839.88
+2097152      3275.96
+4194304      6446.24
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.76
+2              67.40
+4              67.89
+8              67.86
+16             67.78
+32             67.88
+64             68.66
+128            68.83
+256            68.78
+512            41.44
+1024           41.86
+2048           80.03
+4096           78.23
+8192           81.92
+16384          91.64
+32768         127.05
+65536         296.65
+131072        425.46
+262144        648.88
+524288       1058.83
+1048576      1912.76
+2097152      3295.16
+4194304      6427.60
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              68.13
+2              68.20
+4              67.99
+8              68.19
+16             67.58
+32             68.13
+64             67.76
+128            68.99
+256            68.92
+512            41.62
+1024           42.20
+2048           79.29
+4096           78.84
+8192           80.96
+16384          92.10
+32768         126.99
+65536         292.84
+131072        426.01
+262144        648.56
+524288       1016.54
+1048576      1831.91
+2097152      3462.69
+4194304      6434.75
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.49
+2              67.54
+4              67.34
+8              67.35
+16             67.44
+32             67.63
+64             68.46
+128            68.34
+256            68.30
+512            41.43
+1024           41.75
+2048           81.11
+4096           78.48
+8192           82.12
+16384          91.57
+32768         126.68
+65536         295.86
+131072        426.38
+262144        647.06
+524288       1014.31
+1048576      1832.34
+2097152      3471.33
+4194304      6438.94
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.72
+2              67.79
+4              67.37
+8              67.65
+16             67.83
+32             68.08
+64             68.95
+128            68.24
+256            69.06
+512            41.38
+1024           41.87
+2048           74.84
+4096           77.40
+8192           82.01
+16384          91.59
+32768         127.62
+65536         299.94
+131072        426.32
+262144        629.76
+524288       1060.17
+1048576      1919.47
+2097152      3459.74
+4194304      6465.14
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              57.26
+2              57.46
+4              57.33
+8              57.27
+16             57.13
+32             57.29
+64             57.82
+128            57.88
+256            56.74
+512            35.03
+1024           52.85
+2048           58.60
+4096           59.81
+8192           61.92
+16384          81.11
+32768          95.95
+65536         244.85
+131072        324.60
+262144        414.40
+524288        613.67
+1048576      1332.95
+2097152      2481.75
+4194304      4932.54
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.83
+2              66.78
+4              68.46
+8              67.96
+16             67.95
+32             67.54
+64             68.88
+128            68.80
+256            68.96
+512            41.40
+1024           42.08
+2048           81.80
+4096           82.36
+8192           81.25
+16384          92.33
+32768         127.44
+65536         296.67
+131072        428.67
+262144        647.87
+524288       1017.08
+1048576      1832.84
+2097152      3300.22
+4194304      6442.86
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1              67.17
+2              67.30
+4              67.30
+8              67.25
+16             67.33
+32             67.57
+64             68.04
+128            68.14
+256            68.13
+512            41.31
+1024           41.59
+2048           78.29
+4096           77.88
+8192           82.07
+16384          92.10
+32768         126.22
+65536         298.79
+131072        426.22
+262144        647.84
+524288       1062.45
+1048576      1919.37
+2097152      3250.54
+4194304      6436.85
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-0.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-latencymp-multinode-2-worker-1.osu-latencymp-multinode-2.osu.svc]:2222' (ECDSA) to the list of known hosts.
+# Number of forked processes in sender: 2
+# Number of forked processes in receiver: 2
+
+# OSU MPI Multi-process Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1             178.89
+2             166.42
+4             193.65
+8             195.61
+16            195.40
+32            194.77
+64            195.37
+128           194.24
+256           195.61
+512           143.47
+1024          140.37
+2048          209.84
+4096          211.51
+8192          233.59
+16384         267.24
+32768         358.43
+65536         848.60
+131072       1208.54
+262144       1772.17
+524288       2709.56
+1048576      4301.02
+2097152      5836.73
+4194304     11660.36
