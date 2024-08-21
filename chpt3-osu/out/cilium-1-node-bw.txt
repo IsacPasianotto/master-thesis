@@ -1,0 +1,870 @@
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.37
+8                       0.75
+16                      1.50
+32                      3.00
+64                      5.98
+128                    11.94
+256                    19.37
+512                    38.62
+1024                   77.02
+2048                  123.93
+4096                  238.38
+8192                  475.47
+16384                1196.24
+32768                2107.97
+65536                1330.47
+131072               2207.31
+262144               2979.27
+524288               3103.00
+1048576              3182.28
+2097152              3365.53
+4194304              3396.46
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.05
+64                      6.09
+128                    12.15
+256                    19.51
+512                    39.02
+1024                   77.90
+2048                  125.32
+4096                  241.52
+8192                  478.46
+16384                 939.96
+32768                2097.44
+65536                1330.99
+131072               2207.31
+262144               3000.26
+524288               3091.24
+1048576              3177.15
+2097152              3356.12
+4194304              3389.83
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.53
+32                      3.06
+64                      6.12
+128                    12.21
+256                    19.35
+512                    38.76
+1024                   77.50
+2048                  124.64
+4096                  239.80
+8192                  474.64
+16384                 931.17
+32768                1691.34
+65536                1331.41
+131072               2210.41
+262144               2999.14
+524288               3096.89
+1048576              3170.93
+2097152              3353.80
+4194304              3393.22
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.03
+64                      6.05
+128                    12.09
+256                    19.45
+512                    38.85
+1024                   77.39
+2048                  125.19
+4096                  241.76
+8192                  478.57
+16384                 931.70
+32768                2083.12
+65536                1326.94
+131072               2212.37
+262144               2978.30
+524288               3106.03
+1048576              3169.24
+2097152              3346.42
+4194304              3368.99
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.53
+32                      3.06
+64                      6.10
+128                    12.18
+256                    19.35
+512                    38.63
+1024                   77.29
+2048                  124.60
+4096                  239.53
+8192                  475.43
+16384                 931.63
+32768                2100.63
+65536                1325.35
+131072               2195.49
+262144               2989.29
+524288               3086.75
+1048576              3166.75
+2097152              3346.60
+4194304              3374.78
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.53
+32                      3.05
+64                      6.10
+128                    12.17
+256                    19.14
+512                    38.39
+1024                   76.79
+2048                  123.42
+4096                  238.13
+8192                  473.18
+16384                 933.97
+32768                2095.41
+65536                1330.70
+131072               2200.30
+262144               3007.45
+524288               3086.62
+1048576              3175.76
+2097152              3350.48
+4194304              3387.45
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.75
+16                      1.51
+32                      3.01
+64                      5.99
+128                    12.02
+256                    22.84
+512                    38.64
+1024                   77.20
+2048                  125.02
+4096                  240.06
+8192                  478.70
+16384                 932.23
+32768                2107.51
+65536                1330.80
+131072               2217.16
+262144               2992.25
+524288               3116.17
+1048576              3181.85
+2097152              3366.05
+4194304              3402.26
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.04
+64                      6.07
+128                    12.13
+256                    19.24
+512                    38.52
+1024                   77.04
+2048                  124.38
+4096                  240.02
+8192                  473.25
+16384                 925.94
+32768                1690.36
+65536                1324.29
+131072               2220.27
+262144               3023.81
+524288               3102.32
+1048576              3182.33
+2097152              3357.18
+4194304              3391.85
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.03
+64                      6.06
+128                    12.10
+256                    19.40
+512                    38.79
+1024                   77.51
+2048                  124.91
+4096                  241.20
+8192                  476.80
+16384                 931.80
+32768                2114.73
+65536                1328.16
+131072               2207.39
+262144               2977.94
+524288               3093.89
+1048576              3173.92
+2097152              3355.07
+4194304              3400.89
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.18
+4                       0.36
+8                       0.73
+16                      1.45
+32                      2.91
+64                      5.82
+128                    11.62
+256                    19.05
+512                    38.04
+1024                   76.15
+2048                  122.91
+4096                  236.78
+8192                  470.53
+16384                 932.13
+32768                2098.28
+65536                1321.49
+131072               2222.12
+262144               3010.43
+524288               3112.69
+1048576              3175.89
+2097152              3358.88
+4194304              3381.35
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.04
+64                      6.08
+128                    12.15
+256                    19.46
+512                    38.87
+1024                   77.60
+2048                  124.70
+4096                  240.72
+8192                  477.18
+16384                 932.28
+32768                1702.91
+65536                1339.05
+131072               2224.11
+262144               2984.04
+524288               3104.54
+1048576              3187.67
+2097152              3357.79
+4194304              3396.99
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.18
+4                       0.36
+8                       0.73
+16                      1.46
+32                      2.92
+64                      5.82
+128                    11.62
+256                    19.26
+512                    38.36
+1024                   76.76
+2048                  124.69
+4096                  239.75
+8192                  475.35
+16384                 930.89
+32768                1695.67
+65536                1327.80
+131072               2226.53
+262144               3014.10
+524288               3115.57
+1048576              3177.91
+2097152              3360.15
+4194304              3381.95
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.75
+16                      1.52
+32                      3.03
+64                      6.05
+128                    12.07
+256                    19.29
+512                    38.59
+1024                   77.05
+2048                  124.69
+4096                  239.56
+8192                  474.06
+16384                 937.06
+32768                2076.47
+65536                1334.49
+131072               2225.11
+262144               2985.48
+524288               3117.43
+1048576              3183.21
+2097152              3366.19
+4194304              3383.16
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.04
+64                      6.07
+128                    12.10
+256                    19.42
+512                    38.78
+1024                   77.51
+2048                  124.89
+4096                  239.83
+8192                  476.46
+16384                 931.11
+32768                2091.95
+65536                1329.83
+131072               2204.13
+262144               2965.21
+524288               3117.47
+1048576              3172.35
+2097152              3356.90
+4194304              3396.77
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.77
+16                      1.54
+32                      3.06
+64                      6.13
+128                    12.22
+256                    19.48
+512                    39.01
+1024                   77.90
+2048                  125.51
+4096                  240.48
+8192                  477.33
+16384                 936.80
+32768                2128.57
+65536                1337.63
+131072               2218.47
+262144               3016.69
+524288               3124.20
+1048576              3184.68
+2097152              3366.85
+4194304              3392.68
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.77
+16                      1.53
+32                      3.06
+64                      6.12
+128                    12.21
+256                    19.54
+512                    39.05
+1024                   77.92
+2048                  125.32
+4096                  241.84
+8192                  478.67
+16384                 936.90
+32768                1698.16
+65536                1332.84
+131072               2230.63
+262144               3006.56
+524288               3119.47
+1048576              3180.62
+2097152              3367.32
+4194304              3393.37
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.53
+32                      3.05
+64                      6.09
+128                    12.14
+256                    19.33
+512                    38.54
+1024                   77.31
+2048                  123.97
+4096                  238.03
+8192                  473.92
+16384                 928.71
+32768                1686.14
+65536                1331.57
+131072               2239.12
+262144               3013.02
+524288               3113.01
+1048576              3187.88
+2097152              3372.94
+4194304              3414.37
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.04
+64                      6.06
+128                    12.08
+256                    19.40
+512                    38.80
+1024                   77.41
+2048                  124.77
+4096                  239.93
+8192                  476.79
+16384                 929.93
+32768                1687.14
+65536                1318.93
+131072               2204.94
+262144               2986.27
+524288               3062.73
+1048576              3171.07
+2097152              3347.74
+4194304              3392.72
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.18
+4                       0.37
+8                       0.74
+16                      1.48
+32                      2.96
+64                      5.90
+128                    11.76
+256                    19.73
+512                    38.33
+1024                   76.76
+2048                  123.72
+4096                  237.70
+8192                  474.64
+16384                 930.43
+32768                2103.41
+65536                1320.55
+131072               2212.11
+262144               2969.69
+524288               3103.10
+1048576              3177.81
+2097152              3360.29
+4194304              3374.10
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.03
+64                      6.06
+128                    12.10
+256                    19.48
+512                    38.94
+1024                   77.48
+2048                  125.22
+4096                  241.56
+8192                  479.55
+16384                 932.29
+32768                1697.95
+65536                1334.40
+131072               2221.85
+262144               2981.66
+524288               3109.13
+1048576              3165.62
+2097152              3354.10
+4194304              3385.16
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.18
+4                       0.37
+8                       0.74
+16                      1.48
+32                      2.94
+64                      5.88
+128                    11.72
+256                    19.23
+512                    38.34
+1024                   76.78
+2048                  123.88
+4096                  239.21
+8192                  475.32
+16384                 931.22
+32768                1679.98
+65536                1321.44
+131072               2208.24
+262144               2991.06
+524288               3093.17
+1048576              3163.38
+2097152              3343.46
+4194304              3377.26
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.04
+64                      6.09
+128                    12.19
+256                    19.84
+512                    38.72
+1024                   77.38
+2048                  124.87
+4096                  239.96
+8192                  478.54
+16384                 932.95
+32768                2117.60
+65536                1325.00
+131072               2228.82
+262144               3002.13
+524288               3097.48
+1048576              3163.31
+2097152              3354.56
+4194304              3380.14
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.03
+64                      6.03
+128                    12.02
+256                    19.29
+512                    38.59
+1024                   76.99
+2048                  123.87
+4096                  238.51
+8192                  471.37
+16384                 927.08
+32768                2099.58
+65536                1327.00
+131072               2217.38
+262144               3014.07
+524288               3105.14
+1048576              3175.25
+2097152              3360.39
+4194304              3376.85
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.04
+64                      6.03
+128                    12.07
+256                    19.32
+512                    38.65
+1024                   77.31
+2048                  124.75
+4096                  239.12
+8192                  476.82
+16384                 931.43
+32768                2097.53
+65536                1327.54
+131072               2205.63
+262144               2959.03
+524288               3097.51
+1048576              3181.14
+2097152              3357.63
+4194304              3394.66
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.52
+32                      3.05
+64                      6.08
+128                    12.13
+256                    19.25
+512                    38.53
+1024                   76.89
+2048                  123.93
+4096                  238.43
+8192                  475.68
+16384                 927.41
+32768                1695.24
+65536                1332.39
+131072               2224.40
+262144               2918.91
+524288               3095.82
+1048576              3162.73
+2097152              3350.30
+4194304              3362.99
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.53
+32                      3.05
+64                      6.07
+128                    12.17
+256                    19.52
+512                    39.04
+1024                   77.83
+2048                  125.33
+4096                  241.21
+8192                  481.93
+16384                 941.27
+32768                1716.50
+65536                1332.31
+131072               2213.52
+262144               2990.56
+524288               3109.57
+1048576              3185.76
+2097152              3372.81
+4194304              3409.52
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.51
+32                      3.03
+64                      6.05
+128                    12.09
+256                    19.41
+512                    38.76
+1024                   77.45
+2048                  124.93
+4096                  240.17
+8192                  477.81
+16384                 933.71
+32768                2100.39
+65536                1326.13
+131072               2202.20
+262144               3003.35
+524288               3101.68
+1048576              3176.12
+2097152              3351.46
+4194304              3392.19
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.39
+8                       0.77
+16                      1.54
+32                      3.09
+64                      6.16
+128                    12.30
+256                    19.56
+512                    39.09
+1024                   78.08
+2048                  125.83
+4096                  243.54
+8192                  481.29
+16384                 940.41
+32768                2102.17
+65536                1343.29
+131072               2248.21
+262144               3012.36
+524288               3132.24
+1048576              3192.81
+2097152              3371.06
+4194304              3405.21
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.10
+2                       0.19
+4                       0.38
+8                       0.76
+16                      1.53
+32                      3.06
+64                      6.10
+128                    12.18
+256                    19.42
+512                    38.82
+1024                   77.61
+2048                  124.60
+4096                  240.26
+8192                  474.94
+16384                 926.00
+32768                2074.13
+65536                1320.80
+131072               2190.76
+262144               2954.75
+524288               3095.11
+1048576              3169.50
+2097152              3347.09
+4194304              3398.19
+Warning: Permanently added '[osu-bw-single-node-worker-1.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bw-single-node-worker-0.osu-bw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.09
+2                       0.19
+4                       0.37
+8                       0.75
+16                      1.50
+32                      3.01
+64                      5.99
+128                    11.98
+256                    19.35
+512                    38.69
+1024                   77.28
+2048                  124.91
+4096                  240.21
+8192                  478.71
+16384                 934.28
+32768                2104.80
+65536                1326.48
+131072               2223.14
+262144               2995.40
+524288               3115.06
+1048576              3179.83
+2097152              3358.06
+4194304              3412.74

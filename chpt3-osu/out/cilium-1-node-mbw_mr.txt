@@ -1,0 +1,870 @@
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84668.94
+2                       0.17          84885.10
+4                       0.34          84754.25
+8                       0.68          84770.49
+16                      1.36          84787.51
+32                      2.71          84710.80
+64                      5.39          84262.69
+128                    10.80          84410.36
+256                    17.22          67271.86
+512                    34.25          66895.59
+1024                   68.34          66740.76
+2048                  111.23          54309.30
+4096                  218.39          53318.74
+8192                  431.79          52708.45
+16384                 832.08          50786.13
+32768                1870.95          57096.92
+65536                1180.10          18006.94
+131072               1977.66          15088.31
+262144               2631.69          10039.11
+524288               2843.01           5422.60
+1048576              2920.55           2785.26
+2097152              3098.26           1477.37
+4194304              3130.41            746.35
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.10          95460.13
+2                       0.19          95659.91
+4                       0.38          95636.40
+8                       0.76          95395.36
+16                      1.52          95211.33
+32                      3.05          95428.76
+64                      6.10          95251.65
+128                    12.18          95163.54
+256                    19.32          75452.37
+512                    38.35          74895.97
+1024                   76.57          74778.58
+2048                  124.29          60688.98
+4096                  243.53          59455.26
+8192                  483.86          59064.68
+16384                 925.68          56499.12
+32768                2108.50          64346.46
+65536                1326.27          20237.21
+131072               2230.07          17014.08
+262144               2997.97          11436.37
+524288               3109.75           5931.37
+1048576              3181.51           3034.13
+2097152              3366.02           1605.05
+4194304              3147.91            750.52
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84612.17
+2                       0.17          84185.44
+4                       0.34          84667.37
+8                       0.68          84625.69
+16                      1.36          84689.52
+32                      2.71          84684.82
+64                      5.41          84519.06
+128                    10.79          84304.69
+256                    17.09          66739.91
+512                    33.94          66279.81
+1024                   67.70          66117.25
+2048                  108.05          52756.83
+4096                  213.73          52179.40
+8192                  425.51          51942.51
+16384                 826.22          50428.34
+32768                1487.49          45394.71
+65536                1175.19          17931.96
+131072               1978.90          15097.85
+262144               2689.50          10259.65
+524288               2822.56           5383.61
+1048576              2918.50           2783.30
+2097152              3086.97           1471.98
+4194304              3112.58            742.10
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          83788.30
+2                       0.17          84011.95
+4                       0.34          83795.04
+8                       0.67          83880.04
+16                      1.33          83393.49
+32                      2.67          83492.48
+64                      5.34          83446.60
+128                    10.63          83047.20
+256                    16.91          66053.56
+512                    33.56          65548.15
+1024                   67.40          65819.71
+2048                  109.44          53436.52
+4096                  214.90          52465.79
+8192                  426.69          52085.85
+16384                 828.26          50552.89
+32768                1861.81          56818.07
+65536                1174.27          17917.90
+131072               1969.74          15027.95
+262144               2666.95          10173.61
+524288               2837.19           5411.52
+1048576              2917.64           2782.48
+2097152              3094.01           1475.34
+4194304              3134.94            747.43
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84420.12
+2                       0.17          84426.70
+4                       0.34          84495.50
+8                       0.68          84593.88
+16                      1.35          84546.54
+32                      2.71          84575.79
+64                      5.40          84452.40
+128                    10.79          84326.39
+256                    17.13          66926.28
+512                    34.16          66726.23
+1024                   68.13          66529.54
+2048                  110.19          53801.46
+4096                  217.30          53051.05
+8192                  428.89          52354.21
+16384                 828.98          50596.65
+32768                1523.84          46503.88
+65536                1171.78          17879.96
+131072               1968.41          15017.77
+262144               2672.95          10196.50
+524288               2829.14           5396.15
+1048576              2900.81           2766.43
+2097152              3073.42           1465.52
+4194304              3139.66            748.55
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84461.15
+2                       0.17          84464.99
+4                       0.34          84329.39
+8                       0.68          84573.43
+16                      1.35          84416.51
+32                      2.69          84058.15
+64                      5.40          84401.48
+128                    10.79          84280.17
+256                    17.05          66606.25
+512                    33.87          66159.83
+1024                   67.68          66097.13
+2048                  108.72          53086.76
+4096                  214.92          52469.85
+8192                  511.60          62451.54
+16384                 825.77          50401.02
+32768                1849.50          56442.38
+65536                1169.73          17848.65
+131072               1966.39          15002.34
+262144               2684.51          10240.60
+524288               2824.40           5387.12
+1048576              2904.16           2769.62
+2097152              3079.58           1468.46
+4194304              3130.37            746.34
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.10          96387.08
+2                       0.19          96514.47
+4                       0.39          96270.78
+8                       0.77          96462.22
+16                      1.54          96379.80
+32                      3.09          96439.68
+64                      6.15          96156.43
+128                    12.28          95968.53
+256                    19.47          76049.75
+512                    38.67          75526.70
+1024                   77.18          75366.91
+2048                  125.45          61256.95
+4096                  244.65          59728.84
+8192                  487.30          59484.92
+16384                 943.88          57609.88
+32768                1729.47          52779.26
+65536                1323.40          20193.52
+131072               2223.00          16960.14
+262144               3018.73          11515.55
+524288               3121.29           5953.39
+1048576              3175.89           3028.76
+2097152              3355.48           1600.02
+4194304              3409.14            812.80
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.09          85025.10
+2                       0.17          84695.24
+4                       0.34          84867.15
+8                       0.68          85029.57
+16                      1.36          84909.43
+32                      2.72          84888.84
+64                      5.44          84996.06
+128                    10.85          84731.24
+256                    17.24          67341.81
+512                    34.19          66767.73
+1024                   68.26          66658.78
+2048                  109.72          53576.53
+4096                  216.28          52802.44
+8192                  428.87          52352.61
+16384                 831.12          50727.58
+32768                1506.89          45986.64
+65536                1177.23          17963.11
+131072               1973.68          15057.98
+262144               2681.85          10230.44
+524288               2827.63           5393.28
+1048576              2908.90           2774.14
+2097152              3078.67           1468.02
+4194304              3121.47            744.22
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.10          96300.79
+2                       0.17          84851.22
+4                       0.34          84923.70
+8                       0.68          84861.44
+16                      1.36          84820.38
+32                      2.72          84982.39
+64                      5.42          84748.91
+128                    10.84          84654.67
+256                    17.21          67227.45
+512                    34.20          66788.96
+1024                   68.20          66606.13
+2048                  110.45          53928.75
+4096                  217.89          53194.63
+8192                  429.61          52442.40
+16384                 834.48          50932.87
+32768                1863.56          56871.36
+65536                1175.51          17936.89
+131072               1968.29          15016.90
+262144               2639.97          10070.68
+524288               2844.40           5425.25
+1048576              2913.46           2778.49
+2097152              3081.59           1469.41
+4194304              3143.52            749.47
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84410.86
+2                       0.17          84308.17
+4                       0.34          84583.11
+8                       0.68          84600.11
+16                      1.35          84478.60
+32                      2.70          84501.61
+64                      5.39          84283.03
+128                    10.74          83927.21
+256                    17.03          66534.07
+512                    33.76          65938.30
+1024                   67.42          65844.14
+2048                  109.01          53225.89
+4096                  214.85          52454.67
+8192                  425.62          51955.03
+16384                 827.57          50510.62
+32768                1854.87          56606.15
+65536                1177.48          17966.93
+131072               1974.30          15062.73
+262144               2683.85          10238.09
+524288               2845.70           5427.75
+1048576              2906.36           2771.73
+2097152              3077.22           1467.33
+4194304              3123.12            744.61
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.10          96153.84
+2                       0.19          96216.21
+4                       0.38          96233.02
+8                       0.77          96285.42
+16                      1.54          96175.56
+32                      3.08          96128.90
+64                      6.12          95668.14
+128                    12.28          95933.24
+256                    19.49          76151.71
+512                    38.68          75538.79
+1024                   77.20          75390.22
+2048                  124.61          60846.54
+4096                  244.38          59662.78
+8192                  485.08          59214.00
+16384                 940.94          57430.34
+32768                2111.22          64429.29
+65536                1326.19          20236.04
+131072               2224.15          16968.95
+262144               2987.93          11398.04
+524288               3111.68           5935.06
+1048576              3173.50           3026.49
+2097152              3362.38           1603.31
+4194304              3414.01            813.96
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84920.63
+2                       0.17          84899.61
+4                       0.34          84912.94
+8                       0.68          85248.02
+16                      1.36          84974.75
+32                      2.72          84941.25
+64                      5.43          84845.91
+128                    10.83          84631.58
+256                    21.64          84519.46
+512                    34.00          66402.76
+1024                   67.85          66262.40
+2048                  109.02          53232.22
+4096                  214.93          52472.72
+8192                  426.91          52113.09
+16384                 827.79          50524.54
+32768                1847.30          56375.03
+65536                1171.65          17877.98
+131072               1965.51          14995.63
+262144               2671.75          10191.93
+524288               2833.85           5405.14
+1048576              2913.20           2778.25
+2097152              3086.55           1471.78
+4194304              3128.20            745.82
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84544.25
+2                       0.17          84413.24
+4                       0.34          84532.30
+8                       0.67          84374.90
+16                      1.35          84426.09
+32                      2.70          84356.12
+64                      5.40          84310.03
+128                    10.77          84151.17
+256                    21.51          84037.40
+512                    33.85          66114.23
+1024                   67.61          66022.06
+2048                  109.41          53422.69
+4096                  216.76          52918.72
+8192                  427.05          52129.95
+16384                 832.01          50782.09
+32768                1501.84          45832.39
+65536                1170.07          17853.83
+131072               1968.04          15014.92
+262144               2670.98          10188.97
+524288               2822.19           5382.89
+1048576              2901.25           2766.85
+2097152              3074.29           1465.93
+4194304              3120.51            743.99
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84659.25
+2                       0.17          84664.35
+4                       0.34          84544.86
+8                       0.68          84463.61
+16                      1.35          84656.54
+32                      2.71          84619.59
+64                      5.41          84574.57
+128                    10.82          84548.83
+256                    17.07          66695.72
+512                    33.74          65902.84
+1024                   67.58          65991.49
+2048                  108.99          53216.00
+4096                  214.30          52318.78
+8192                  423.29          51671.28
+16384                 822.20          50183.09
+32768                1848.74          56419.06
+65536                1171.12          17869.95
+131072               1969.24          15024.13
+262144               2676.51          10210.06
+524288               2820.34           5379.37
+1048576              2903.69           2769.17
+2097152              3076.46           1466.97
+4194304              3115.19            742.72
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84004.03
+2                       0.17          83794.29
+4                       0.33          83743.87
+8                       0.67          83904.29
+16                      1.34          83796.20
+32                      2.68          83679.66
+64                      5.36          83728.13
+128                    10.69          83488.14
+256                    17.13          66899.81
+512                    34.03          66471.00
+1024                   67.97          66372.45
+2048                  110.12          53768.06
+4096                  217.01          52979.78
+8192                  428.58          52316.83
+16384                 831.87          50773.43
+32768                1872.16          57133.80
+65536                1173.71          17909.47
+131072               1970.62          15034.61
+262144               2667.34          10175.08
+524288               2843.65           5423.84
+1048576              2915.99           2780.91
+2097152              3083.82           1470.48
+4194304              3116.03            742.92
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.10          96209.26
+2                       0.17          84753.80
+4                       0.34          84690.38
+8                       0.68          84834.73
+16                      1.36          84793.93
+32                      2.72          84899.02
+64                      5.42          84650.03
+128                    10.83          84604.71
+256                    17.15          66997.43
+512                    34.10          66607.38
+1024                   67.93          66335.32
+2048                  109.70          53565.46
+4096                  216.26          52797.95
+8192                  425.41          51929.52
+16384                 830.16          50669.14
+32768                1877.66          57301.63
+65536                1169.74          17848.81
+131072               1963.07          14977.02
+262144               2665.47          10167.97
+524288               2824.55           5387.41
+1048576              2909.40           2774.62
+2097152              3082.72           1469.95
+4194304              3113.45            742.30
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84381.83
+2                       0.17          84216.88
+4                       0.34          84464.77
+8                       0.68          84582.38
+16                      1.35          84516.88
+32                      2.71          84541.39
+64                      5.41          84462.61
+128                    10.79          84305.24
+256                    17.04          66561.41
+512                    33.91          66228.71
+1024                   67.56          65972.85
+2048                  109.11          53274.70
+4096                  215.22          52543.45
+8192                  426.14          52018.72
+16384                 823.98          50291.73
+32768                1510.14          46085.66
+65536                1169.17          17840.16
+131072               1965.83          14998.12
+262144               2658.26          10140.46
+524288               2829.90           5397.60
+1048576              2905.69           2771.08
+2097152              3074.63           1466.10
+4194304              3143.25            749.41
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84379.72
+2                       0.17          84513.16
+4                       0.34          84322.85
+8                       0.68          84405.62
+16                      1.35          84444.19
+32                      2.70          84349.55
+64                      5.40          84319.16
+128                    10.78          84190.90
+256                    17.06          66630.48
+512                    33.82          66063.99
+1024                   67.54          65957.12
+2048                  109.34          53390.87
+4096                  214.87          52459.56
+8192                  424.78          51852.90
+16384                 829.25          50613.21
+32768                1859.08          56734.72
+65536                1169.77          17849.26
+131072               1965.35          14994.44
+262144               2636.57          10057.70
+524288               2825.66           5389.52
+1048576              2906.92           2772.26
+2097152              3079.56           1468.45
+4194304              3135.57            747.58
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84303.03
+2                       0.17          84327.57
+4                       0.34          84350.92
+8                       0.68          84432.41
+16                      1.35          84419.72
+32                      2.70          84255.50
+64                      5.40          84349.45
+128                    10.78          84182.20
+256                    17.00          66394.86
+512                    33.88          66178.20
+1024                   67.55          65967.24
+2048                  109.30          53369.03
+4096                  214.59          52390.89
+8192                  424.79          51853.66
+16384                 824.67          50333.95
+32768                1832.70          55929.43
+65536                1173.30          17903.16
+131072               1972.74          15050.78
+262144               2672.91          10196.35
+524288               2833.16           5403.82
+1048576              2910.91           2776.06
+2097152              3086.30           1471.66
+4194304              3099.20            738.91
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84263.12
+2                       0.17          84389.62
+4                       0.34          84436.18
+8                       0.68          84396.57
+16                      1.35          84446.26
+32                      2.70          84370.31
+64                      5.38          84002.93
+128                    10.76          84078.23
+256                    17.05          66586.87
+512                    39.57          77291.68
+1024                   67.49          65906.55
+2048                  109.31          53375.94
+4096                  214.56          52384.00
+8192                  424.83          51859.72
+16384                 826.21          50427.74
+32768                1838.74          56113.90
+65536                1173.19          17901.46
+131072               1968.32          15017.07
+262144               2668.59          10179.86
+524288               2824.01           5386.38
+1048576              2906.24           2771.60
+2097152              3081.01           1469.14
+4194304              3132.68            746.89
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84792.09
+2                       0.17          84906.35
+4                       0.34          84832.82
+8                       0.68          84921.45
+16                      1.35          84605.30
+32                      2.71          84801.63
+64                      5.42          84610.00
+128                    10.82          84547.43
+256                    17.18          67101.87
+512                    34.12          66640.73
+1024                   68.12          66527.89
+2048                  109.59          53512.93
+4096                  216.68          52900.04
+8192                  428.41          52296.56
+16384                 832.85          50833.14
+32768                1861.53          56809.48
+65536                1174.23          17917.40
+131072               1962.68          14974.08
+262144               2663.11          10158.94
+524288               2830.97           5399.65
+1048576              2905.52           2770.92
+2097152              3077.38           1467.41
+4194304              3131.33            746.57
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84662.05
+2                       0.17          84940.02
+4                       0.34          84569.92
+8                       0.68          84647.98
+16                      1.35          84651.99
+32                      2.71          84609.46
+64                      5.41          84457.27
+128                    10.81          84435.46
+256                    21.55          84180.87
+512                    39.69          77510.39
+1024                   79.19          77338.53
+2048                  109.53          53483.66
+4096                  215.50          52611.53
+8192                  427.27          52157.09
+16384                 828.37          50559.84
+32768                1848.15          56401.01
+65536                1173.64          17908.38
+131072               1963.38          14979.40
+262144               2640.00          10070.80
+524288               2856.04           5447.47
+1048576              2909.20           2774.43
+2097152              3081.94           1469.58
+4194304              3116.69            743.08
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84525.87
+2                       0.17          84603.27
+4                       0.34          84472.46
+8                       0.68          84456.08
+16                      1.35          84527.10
+32                      2.70          84419.18
+64                      5.40          84388.12
+128                    10.77          84142.95
+256                    17.15          67000.54
+512                    34.05          66510.90
+1024                   67.70          66118.02
+2048                  109.68          53554.96
+4096                  217.03          52985.42
+8192                  429.43          52421.02
+16384                 833.85          50893.99
+32768                1855.57          56627.62
+65536                1178.16          17977.34
+131072               1973.58          15057.19
+262144               2678.01          10215.79
+524288               2844.55           5425.54
+1048576              2908.03           2773.31
+2097152              3079.90           1468.61
+4194304              3132.24            746.78
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.10          95333.95
+2                       0.19          95365.47
+4                       0.38          95437.17
+8                       0.76          95134.83
+16                      1.52          95154.97
+32                      3.05          95195.82
+64                      6.09          95193.37
+128                    12.15          94912.51
+256                    19.52          76246.99
+512                    38.04          74300.21
+1024                   76.10          74317.27
+2048                  123.74          60420.10
+4096                  241.40          58934.84
+8192                  478.68          58432.61
+16384                 926.07          56522.78
+32768                2125.92          64878.01
+65536                1319.05          20127.12
+131072               2223.04          16960.41
+262144               3016.23          11506.02
+524288               3119.71           5950.37
+1048576              3174.04           3027.00
+2097152              3354.32           1599.47
+4194304              3408.18            812.57
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84346.86
+2                       0.17          84559.15
+4                       0.34          84338.34
+8                       0.68          84513.80
+16                      1.35          84149.92
+32                      2.70          84477.51
+64                      5.40          84355.80
+128                    10.78          84194.00
+256                    16.98          66343.50
+512                    33.73          65877.14
+1024                   67.34          65760.24
+2048                  108.68          53067.99
+4096                  213.27          52067.29
+8192                  421.59          51463.83
+16384                 822.78          50218.81
+32768                1851.69          56509.18
+65536                1167.99          17822.10
+131072               1963.44          14979.83
+262144               2661.09          10151.24
+524288               2824.22           5386.78
+1048576              2900.45           2766.08
+2097152              3071.83           1464.76
+4194304              3125.70            745.22
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.09          85053.45
+2                       0.17          84798.25
+4                       0.34          85059.43
+8                       0.68          85240.76
+16                      1.36          85089.60
+32                      2.72          84960.71
+64                      5.45          85099.83
+128                    10.87          84945.42
+256                    17.26          67418.25
+512                    34.33          67053.32
+1024                   68.41          66802.95
+2048                  110.56          53985.61
+4096                  217.85          53185.47
+8192                  430.47          52547.00
+16384                 832.95          50839.10
+32768                1515.51          46249.74
+65536                1178.58          17983.73
+131072               1974.81          15066.58
+262144               2685.17          10243.12
+524288               2839.82           5416.52
+1048576              2911.92           2777.02
+2097152              3085.63           1471.34
+4194304              3122.49            744.46
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84229.28
+2                       0.17          84202.78
+4                       0.34          84062.82
+8                       0.67          84275.22
+16                      1.35          84301.65
+32                      2.69          84158.46
+64                      5.38          84137.77
+128                    10.76          84053.71
+256                    16.97          66300.43
+512                    33.82          66063.05
+1024                   67.30          65718.63
+2048                  109.22          53330.47
+4096                  215.27          52556.80
+8192                  425.40          51928.72
+16384                 827.61          50513.09
+32768                1857.00          56671.20
+65536                1173.08          17899.76
+131072               1971.13          15038.51
+262144               2680.42          10225.00
+524288               2822.01           5382.57
+1048576              2908.45           2773.72
+2097152              3084.50           1470.80
+4194304              3130.91            746.47
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84848.36
+2                       0.17          85025.02
+4                       0.34          84970.30
+8                       0.68          84994.44
+16                      1.36          84900.69
+32                      2.72          84873.05
+64                      5.43          84860.75
+128                    10.84          84660.17
+256                    20.64          80632.28
+512                    34.13          66656.63
+1024                   68.04          66442.95
+2048                  110.25          53833.40
+4096                  216.79          52926.70
+8192                  426.21          52027.17
+16384                 832.01          50781.90
+32768                1849.96          56456.18
+65536                1177.02          17959.91
+131072               1972.81          15051.34
+262144               2681.64          10229.64
+524288               2831.13           5399.96
+1048576              2913.07           2778.12
+2097152              3085.44           1471.25
+4194304              3124.61            744.97
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84962.91
+2                       0.17          84739.37
+4                       0.34          84688.26
+8                       0.68          84981.84
+16                      1.36          85020.72
+32                      2.72          84934.11
+64                      5.41          84453.33
+128                    10.85          84747.10
+256                    17.29          67538.89
+512                    39.69          77527.22
+1024                   68.53          66922.21
+2048                  110.73          54069.11
+4096                  218.05          53234.91
+8192                  428.98          52365.85
+16384                 834.60          50940.21
+32768                1862.68          56844.39
+65536                1179.00          17990.10
+131072               1981.54          15117.93
+262144               2685.77          10245.39
+524288               2845.47           5427.30
+1048576              2915.21           2780.16
+2097152              3084.54           1470.82
+4194304              3127.51            745.66
+Warning: Permanently added '[osu-mbwmr-single-node-worker-1.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-mbwmr-single-node-worker-0.osu-mbwmr-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+# OSU MPI Multiple Bandwidth / Message Rate Test v7.4
+# [ pairs: 1 ] [ window size: 64 ]
+# Datatype: MPI_CHAR.
+# Size                  MB/s        Messages/s
+1                       0.08          84712.11
+2                       0.17          84823.72
+4                       0.34          84823.87
+8                       0.68          84449.82
+16                      1.36          84804.34
+32                      2.72          84851.47
+64                      5.42          84723.88
+128                    10.82          84550.57
+256                    17.10          66805.80
+512                    33.95          66315.27
+1024                   67.81          66222.96
+2048                  109.39          53414.09
+4096                  214.75          52428.01
+8192                  424.25          51788.87
+16384                 823.82          50282.16
+32768                1849.09          56429.85
+65536                1172.73          17894.44
+131072               1965.93          14998.88
+262144               2635.46          10053.47
+524288               2867.82           5469.94
+1048576              2906.74           2772.08
+2097152              3083.98           1470.56
+4194304              3145.16            749.86

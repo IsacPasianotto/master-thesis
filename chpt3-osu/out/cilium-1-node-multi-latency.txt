@@ -1,0 +1,870 @@
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.93
+2                      23.96
+4                      23.91
+8                      23.93
+16                     23.95
+32                     23.92
+64                     23.92
+128                    23.88
+256                    23.95
+512                    18.70
+1024                   18.84
+2048                   18.56
+4096                   20.57
+8192                   27.77
+16384                  29.75
+32768                  43.66
+65536                 104.14
+131072                121.53
+262144                164.38
+524288                231.67
+1048576               401.68
+2097152               732.88
+4194304              1607.16
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.09
+2                      24.06
+4                      24.05
+8                      24.03
+16                     24.06
+32                     24.07
+64                     24.06
+128                    24.07
+256                    24.06
+512                    18.78
+1024                   18.85
+2048                   18.51
+4096                   20.56
+8192                   21.12
+16384                  30.66
+32768                  43.25
+65536                 105.44
+131072                121.59
+262144                163.64
+524288                230.98
+1048576               400.83
+2097152               733.84
+4194304              1611.42
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.00
+2                      24.03
+4                      24.00
+8                      24.03
+16                     23.99
+32                     24.01
+64                     24.08
+128                    24.04
+256                    24.10
+512                    18.84
+1024                   18.88
+2048                   18.62
+4096                   20.76
+8192                   21.24
+16384                  30.73
+32768                  43.74
+65536                 106.15
+131072                121.29
+262144                163.93
+524288                231.75
+1048576               404.61
+2097152               735.59
+4194304              1605.66
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.92
+2                      23.93
+4                      23.93
+8                      23.94
+16                     23.96
+32                     23.94
+64                     23.94
+128                    23.95
+256                    24.00
+512                    18.69
+1024                   18.79
+2048                   18.52
+4096                   20.67
+8192                   27.76
+16384                  30.51
+32768                  43.79
+65536                 107.20
+131072                121.90
+262144                165.62
+524288                232.11
+1048576               400.86
+2097152               736.92
+4194304              1611.01
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.05
+2                      24.06
+4                      24.00
+8                      24.02
+16                     24.10
+32                     24.09
+64                     24.05
+128                    24.00
+256                    24.04
+512                    18.84
+1024                   18.92
+2048                   18.65
+4096                   26.90
+8192                   21.15
+16384                  30.20
+32768                  44.04
+65536                 105.98
+131072                123.58
+262144                162.59
+524288                231.24
+1048576               406.91
+2097152               736.82
+4194304              1613.46
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.68
+2                      23.71
+4                      23.64
+8                      23.73
+16                     23.73
+32                     23.75
+64                     23.71
+128                    23.69
+256                    23.74
+512                    19.05
+1024                   19.03
+2048                   18.67
+4096                   20.55
+8192                   21.34
+16384                  30.74
+32768                  43.18
+65536                 105.22
+131072                113.41
+262144                164.71
+524288                230.57
+1048576               401.23
+2097152               726.75
+4194304              1618.43
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.91
+2                      23.91
+4                      23.86
+8                      23.92
+16                     23.95
+32                     23.93
+64                     23.92
+128                    23.88
+256                    23.97
+512                    18.85
+1024                   18.91
+2048                   18.57
+4096                   20.76
+8192                   21.14
+16384                  30.20
+32768                  44.07
+65536                 105.50
+131072                113.81
+262144                161.76
+524288                229.66
+1048576               404.99
+2097152               738.99
+4194304              1607.46
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.05
+2                      24.05
+4                      24.07
+8                      24.06
+16                     24.07
+32                     24.09
+64                     24.07
+128                    24.03
+256                    24.07
+512                    18.79
+1024                   18.90
+2048                   18.63
+4096                   20.76
+8192                   27.85
+16384                  30.55
+32768                  45.63
+65536                  98.14
+131072                115.56
+262144                164.63
+524288                232.52
+1048576               402.19
+2097152               737.11
+4194304              1613.06
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.16
+2                      24.17
+4                      24.15
+8                      24.17
+16                     24.16
+32                     24.15
+64                     24.16
+128                    24.19
+256                    24.18
+512                    18.97
+1024                   18.97
+2048                   18.84
+4096                   20.92
+8192                   21.31
+16384                  30.57
+32768                  44.28
+65536                 106.63
+131072                122.37
+262144                163.84
+524288                231.63
+1048576               402.68
+2097152               730.08
+4194304              1613.85
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.02
+2                      24.02
+4                      23.97
+8                      24.00
+16                     24.01
+32                     24.03
+64                     24.01
+128                    24.01
+256                    24.04
+512                    18.74
+1024                   18.77
+2048                   18.56
+4096                   20.65
+8192                   27.74
+16384                  30.64
+32768                  44.21
+65536                 106.42
+131072                122.04
+262144                165.73
+524288                231.98
+1048576               406.13
+2097152               731.56
+4194304              1614.02
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.07
+2                      24.03
+4                      24.04
+8                      24.05
+16                     24.06
+32                     23.99
+64                     24.02
+128                    24.02
+256                    24.04
+512                    18.81
+1024                   18.89
+2048                   18.57
+4096                   20.68
+8192                   21.21
+16384                  30.49
+32768                  43.42
+65536                 106.12
+131072                121.67
+262144                165.08
+524288                230.78
+1048576               404.64
+2097152               734.20
+4194304              1614.12
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.03
+2                      24.00
+4                      23.95
+8                      24.02
+16                     24.05
+32                     24.05
+64                     24.01
+128                    24.01
+256                    24.04
+512                    18.92
+1024                   18.96
+2048                   18.63
+4096                   20.81
+8192                   21.13
+16384                  30.37
+32768                  44.47
+65536                 105.67
+131072                123.09
+262144                181.24
+524288                233.27
+1048576               406.06
+2097152               734.00
+4194304              1610.64
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.74
+2                      23.76
+4                      23.75
+8                      23.74
+16                     23.73
+32                     23.77
+64                     23.76
+128                    23.75
+256                    23.74
+512                    18.49
+1024                   18.62
+2048                   18.50
+4096                   20.59
+8192                   20.97
+16384                  30.18
+32768                  43.75
+65536                 105.75
+131072                121.88
+262144                164.70
+524288                231.53
+1048576               405.93
+2097152               730.70
+4194304              1619.30
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.94
+2                      23.97
+4                      23.95
+8                      24.00
+16                     24.00
+32                     24.00
+64                     23.99
+128                    23.93
+256                    23.95
+512                    18.77
+1024                   18.84
+2048                   18.52
+4096                   20.66
+8192                   27.65
+16384                  30.20
+32768                  44.20
+65536                 105.37
+131072                121.20
+262144                165.69
+524288                230.11
+1048576               404.93
+2097152               729.89
+4194304              1606.64
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.95
+2                      23.98
+4                      23.98
+8                      23.95
+16                     23.97
+32                     24.01
+64                     24.01
+128                    23.94
+256                    23.99
+512                    18.78
+1024                   18.87
+2048                   18.59
+4096                   20.79
+8192                   21.19
+16384                  30.48
+32768                  43.54
+65536                 105.43
+131072                122.80
+262144                180.73
+524288                231.26
+1048576               402.94
+2097152               729.16
+4194304              1613.81
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.04
+2                      24.04
+4                      23.99
+8                      23.98
+16                     23.97
+32                     24.02
+64                     24.04
+128                    23.99
+256                    24.04
+512                    18.75
+1024                   18.79
+2048                   18.64
+4096                   20.72
+8192                   27.76
+16384                  30.14
+32768                  44.29
+65536                 106.17
+131072                122.10
+262144                164.29
+524288                231.42
+1048576               402.05
+2097152               730.27
+4194304              1612.55
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      20.79
+2                      20.72
+4                      23.53
+8                      23.58
+16                     23.55
+32                     23.52
+64                     23.56
+128                    23.58
+256                    23.58
+512                    18.81
+1024                   18.87
+2048                   18.58
+4096                   20.70
+8192                   21.25
+16384                  31.00
+32768                  44.51
+65536                  97.59
+131072                124.13
+262144                160.63
+524288                230.82
+1048576               401.00
+2097152               731.30
+4194304              1609.24
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.99
+2                      24.01
+4                      24.00
+8                      23.98
+16                     24.03
+32                     24.04
+64                     24.04
+128                    24.03
+256                    24.07
+512                    18.89
+1024                   19.01
+2048                   18.62
+4096                   20.83
+8192                   21.17
+16384                  30.58
+32768                  44.13
+65536                 106.35
+131072                123.00
+262144                164.54
+524288                230.04
+1048576               406.13
+2097152               739.10
+4194304              1618.81
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.03
+2                      24.04
+4                      24.00
+8                      24.04
+16                     24.04
+32                     24.03
+64                     24.06
+128                    24.07
+256                    24.07
+512                    18.63
+1024                   18.74
+2048                   18.56
+4096                   20.63
+8192                   27.78
+16384                  30.58
+32768                  43.94
+65536                 106.10
+131072                123.90
+262144                164.20
+524288                230.60
+1048576               400.66
+2097152               732.57
+4194304              1606.02
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.03
+2                      24.02
+4                      23.98
+8                      24.01
+16                     24.00
+32                     23.99
+64                     24.00
+128                    23.98
+256                    24.01
+512                    18.80
+1024                   18.89
+2048                   18.60
+4096                   20.72
+8192                   21.15
+16384                  30.64
+32768                  43.68
+65536                 106.60
+131072                122.07
+262144                164.03
+524288                231.81
+1048576               401.57
+2097152               737.49
+4194304              1611.61
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.06
+2                      24.06
+4                      24.01
+8                      24.03
+16                     24.08
+32                     24.07
+64                     24.05
+128                    24.07
+256                    24.07
+512                    18.61
+1024                   18.75
+2048                   18.53
+4096                   20.45
+8192                   21.17
+16384                  30.77
+32768                  44.01
+65536                 105.21
+131072                122.09
+262144                164.92
+524288                230.05
+1048576               405.53
+2097152               728.23
+4194304              1611.80
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.00
+2                      24.04
+4                      24.00
+8                      24.04
+16                     24.03
+32                     24.00
+64                     24.01
+128                    23.99
+256                    24.03
+512                    18.76
+1024                   18.88
+2048                   18.61
+4096                   20.84
+8192                   21.17
+16384                  30.35
+32768                  43.95
+65536                 104.69
+131072                123.58
+262144                164.52
+524288                231.42
+1048576               402.44
+2097152               734.73
+4194304              1613.51
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.07
+2                      24.04
+4                      24.02
+8                      24.06
+16                     24.08
+32                     24.05
+64                     24.05
+128                    24.05
+256                    24.03
+512                    18.88
+1024                   18.93
+2048                   18.63
+4096                   20.76
+8192                   27.84
+16384                  30.43
+32768                  44.16
+65536                 107.00
+131072                124.36
+262144                179.66
+524288                231.90
+1048576               400.18
+2097152               732.70
+4194304              1605.89
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      23.69
+2                      23.71
+4                      23.69
+8                      23.73
+16                     23.73
+32                     23.73
+64                     23.74
+128                    23.69
+256                    23.69
+512                    18.66
+1024                   18.71
+2048                   18.53
+4096                   20.64
+8192                   27.78
+16384                  30.07
+32768                  45.61
+65536                  97.49
+131072                114.87
+262144                163.32
+524288                230.68
+1048576               401.28
+2097152               733.66
+4194304              1607.46
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.05
+2                      24.04
+4                      24.06
+8                      24.06
+16                     24.08
+32                     24.10
+64                     24.09
+128                    24.07
+256                    24.08
+512                    18.96
+1024                   18.99
+2048                   18.60
+4096                   20.68
+8192                   21.03
+16384                  30.32
+32768                  44.26
+65536                 105.94
+131072                123.56
+262144                163.65
+524288                230.70
+1048576               401.81
+2097152               731.85
+4194304              1613.02
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.02
+2                      24.03
+4                      24.04
+8                      24.04
+16                     24.03
+32                     24.08
+64                     24.05
+128                    24.01
+256                    24.05
+512                    18.80
+1024                   18.89
+2048                   18.53
+4096                   20.66
+8192                   27.78
+16384                  30.30
+32768                  43.90
+65536                 106.82
+131072                123.04
+262144                162.72
+524288                231.17
+1048576               402.54
+2097152               731.17
+4194304              1608.34
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.07
+2                      24.09
+4                      24.08
+8                      24.05
+16                     24.12
+32                     24.11
+64                     24.08
+128                    24.01
+256                    24.05
+512                    18.71
+1024                   18.75
+2048                   18.51
+4096                   20.62
+8192                   21.02
+16384                  30.26
+32768                  43.20
+65536                 105.38
+131072                122.29
+262144                165.86
+524288                231.13
+1048576               401.09
+2097152               730.61
+4194304              1607.52
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.12
+2                      24.14
+4                      24.07
+8                      24.13
+16                     24.13
+32                     24.11
+64                     24.08
+128                    24.11
+256                    24.10
+512                    18.74
+1024                   18.92
+2048                   18.65
+4096                   20.66
+8192                   27.78
+16384                  30.45
+32768                  43.80
+65536                 106.78
+131072                122.97
+262144                165.39
+524288                231.06
+1048576               401.24
+2097152               729.30
+4194304              1614.40
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.17
+2                      24.12
+4                      24.12
+8                      24.11
+16                     24.15
+32                     24.17
+64                     24.12
+128                    24.12
+256                    24.13
+512                    19.02
+1024                   19.08
+2048                   18.78
+4096                   20.99
+8192                   21.39
+16384                  30.31
+32768                  44.51
+65536                 106.75
+131072                124.46
+262144                166.11
+524288                231.81
+1048576               402.50
+2097152               728.63
+4194304              1614.77
+Warning: Permanently added '[osu-multilatency-single-node-worker-0.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-multilatency-single-node-worker-1.osu-multilatency-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Multi Latency Test v7.4
+# Datatype: MPI_CHAR.
+# Size       Avg Latency(us)
+1                      24.04
+2                      24.02
+4                      24.00
+8                      24.06
+16                     24.05
+32                     24.06
+64                     24.04
+128                    24.02
+256                    24.04
+512                    19.11
+1024                   19.06
+2048                   18.56
+4096                   20.67
+8192                   21.02
+16384                  30.31
+32768                  44.28
+65536                 105.38
+131072                114.25
+262144                163.88
+524288                231.13
+1048576               403.33
+2097152               734.54
+4194304              1609.48

@@ -1,0 +1,870 @@
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.51
+16                      3.06
+32                      6.02
+64                     12.28
+128                    24.25
+256                    47.48
+512                    89.18
+1024                  154.05
+2048                  234.04
+4096                  453.67
+8192                 1066.19
+16384                1615.24
+32768                2205.43
+65536                1791.10
+131072               2424.02
+262144               2809.71
+524288               3050.97
+1048576              3088.12
+2097152              3102.44
+4194304              3014.56
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.50
+16                      3.00
+32                      6.00
+64                     12.20
+128                    24.08
+256                    47.15
+512                    91.15
+1024                  154.96
+2048                  236.38
+4096                  454.71
+8192                 1061.46
+16384                1617.00
+32768                2263.97
+65536                1795.41
+131072               2477.52
+262144               2795.66
+524288               3031.10
+1048576              3120.35
+2097152              3180.96
+4194304              3054.98
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.39
+4                       0.77
+8                       1.54
+16                      3.07
+32                      6.13
+64                     12.31
+128                    24.44
+256                    47.35
+512                    91.53
+1024                  153.67
+2048                  235.92
+4096                  595.83
+8192                 1077.29
+16384                1623.70
+32768                2297.69
+65536                1805.72
+131072               2541.64
+262144               2789.68
+524288               3073.94
+1048576              3098.30
+2097152              3146.74
+4194304              3120.30
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.52
+16                      3.05
+32                      6.04
+64                     12.18
+128                    24.29
+256                    47.40
+512                    93.30
+1024                  154.13
+2048                  237.80
+4096                  475.25
+8192                 1064.55
+16384                1619.56
+32768                2260.05
+65536                1811.32
+131072               2492.55
+262144               2783.96
+524288               3063.09
+1048576              3131.50
+2097152              3190.15
+4194304              3110.02
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.75
+8                       1.51
+16                      3.04
+32                      6.09
+64                     12.19
+128                    24.15
+256                    47.15
+512                    90.90
+1024                  154.46
+2048                  235.74
+4096                  626.94
+8192                 1038.99
+16384                1608.12
+32768                2284.72
+65536                1811.34
+131072               2497.64
+262144               2820.45
+524288               3015.00
+1048576              3136.47
+2097152              3207.50
+4194304              3149.40
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.52
+16                      3.03
+32                      5.97
+64                     12.24
+128                    24.45
+256                    48.14
+512                    92.96
+1024                  157.36
+2048                  236.02
+4096                  478.18
+8192                 1043.19
+16384                1592.65
+32768                2227.92
+65536                1792.32
+131072               2460.61
+262144               2816.82
+524288               3031.24
+1048576              3121.44
+2097152              3215.20
+4194304              3127.07
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.53
+16                      2.99
+32                      6.04
+64                     12.11
+128                    24.07
+256                    47.63
+512                    92.14
+1024                  154.22
+2048                  233.99
+4096                  456.24
+8192                 1066.39
+16384                1619.26
+32768                2036.20
+65536                1787.29
+131072               2377.02
+262144               2805.62
+524288               3037.73
+1048576              3060.16
+2097152              3017.24
+4194304              2994.28
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.37
+4                       0.74
+8                       1.51
+16                      3.01
+32                      6.03
+64                     11.98
+128                    24.22
+256                    48.24
+512                    91.39
+1024                  158.22
+2048                  234.74
+4096                  476.94
+8192                 1057.32
+16384                1598.28
+32768                2260.24
+65536                1808.74
+131072               2530.58
+262144               2816.99
+524288               3013.22
+1048576              3120.96
+2097152              3211.88
+4194304              3191.59
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.39
+4                       0.77
+8                       1.56
+16                      3.12
+32                      6.10
+64                     12.27
+128                    24.55
+256                    46.94
+512                    94.48
+1024                  152.32
+2048                  233.14
+4096                  600.81
+8192                 1074.10
+16384                1633.58
+32768                2273.65
+65536                1793.81
+131072               2518.56
+262144               2812.82
+524288               3042.45
+1048576              3113.20
+2097152              3143.73
+4194304              3056.34
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.77
+8                       1.54
+16                      3.08
+32                      6.05
+64                     12.33
+128                    24.24
+256                    46.86
+512                    91.93
+1024                  157.50
+2048                  232.99
+4096                  473.81
+8192                 1072.08
+16384                1630.04
+32768                2248.66
+65536                1797.54
+131072               2459.67
+262144               2810.65
+524288               3054.65
+1048576              3135.34
+2097152              3176.61
+4194304              3122.54
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.77
+8                       1.53
+16                      3.07
+32                      6.07
+64                     12.18
+128                    24.19
+256                    47.62
+512                    92.52
+1024                  153.90
+2048                  238.10
+4096                  484.66
+8192                 1059.79
+16384                1467.72
+32768                2238.74
+65536                1808.98
+131072               2413.96
+262144               2837.09
+524288               3057.06
+1048576              3130.78
+2097152              3211.24
+4194304              3181.03
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.78
+8                       1.53
+16                      3.07
+32                      6.08
+64                     12.13
+128                    24.59
+256                    47.95
+512                    92.69
+1024                  155.85
+2048                  237.87
+4096                  629.04
+8192                 1078.23
+16384                1616.16
+32768                2287.88
+65536                1801.38
+131072               2484.67
+262144               2813.31
+524288               3040.61
+1048576              3133.51
+2097152              3196.20
+4194304              2986.70
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.37
+4                       0.75
+8                       1.50
+16                      3.03
+32                      5.98
+64                     12.04
+128                    23.87
+256                    48.03
+512                    91.65
+1024                  156.39
+2048                  235.92
+4096                  438.04
+8192                 1065.63
+16384                1599.01
+32768                2230.54
+65536                1792.58
+131072               2439.42
+262144               2842.02
+524288               3045.73
+1048576              3128.50
+2097152              3186.86
+4194304              2909.74
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.51
+16                      3.01
+32                      5.97
+64                     12.12
+128                    24.15
+256                    46.17
+512                    90.37
+1024                  152.70
+2048                  235.49
+4096                  484.64
+8192                 1063.52
+16384                1611.97
+32768                2227.65
+65536                1799.01
+131072               2509.74
+262144               2826.08
+524288               3073.19
+1048576              3102.88
+2097152              3108.75
+4194304              2932.33
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.37
+4                       0.76
+8                       1.52
+16                      3.01
+32                      6.04
+64                     12.17
+128                    24.09
+256                    46.47
+512                    91.18
+1024                  154.36
+2048                  235.03
+4096                  478.92
+8192                 1062.66
+16384                1610.05
+32768                2291.29
+65536                1793.97
+131072               2463.12
+262144               2797.05
+524288               3051.30
+1048576              3086.38
+2097152              3131.31
+4194304              2847.43
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.75
+8                       1.54
+16                      2.98
+32                      5.95
+64                     12.01
+128                    24.09
+256                    47.71
+512                    91.02
+1024                  151.66
+2048                  235.62
+4096                  458.53
+8192                 1073.20
+16384                1619.46
+32768                2271.31
+65536                1799.45
+131072               2421.44
+262144               2807.38
+524288               3054.27
+1048576              3130.71
+2097152              3165.00
+4194304              3111.93
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.77
+8                       1.55
+16                      3.07
+32                      6.06
+64                     12.19
+128                    24.33
+256                    48.06
+512                    92.21
+1024                  154.22
+2048                  234.02
+4096                  442.41
+8192                 1055.78
+16384                1608.85
+32768                2260.64
+65536                1815.30
+131072               2462.06
+262144               2813.06
+524288               3025.40
+1048576              3119.83
+2097152              3174.69
+4194304              3099.27
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.39
+4                       0.77
+8                       1.54
+16                      3.09
+32                      6.10
+64                     12.38
+128                    24.20
+256                    47.75
+512                    91.10
+1024                  155.14
+2048                  236.42
+4096                  575.98
+8192                 1072.48
+16384                1604.40
+32768                2279.02
+65536                1800.27
+131072               2493.83
+262144               2809.18
+524288               2987.49
+1048576              3117.69
+2097152              3197.21
+4194304              3147.94
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.77
+8                       1.53
+16                      3.07
+32                      6.14
+64                     12.29
+128                    24.29
+256                    48.31
+512                    93.00
+1024                  152.44
+2048                  234.98
+4096                  633.29
+8192                 1076.36
+16384                1631.93
+32768                2256.19
+65536                1789.61
+131072               2453.99
+262144               2819.51
+524288               3047.18
+1048576              3118.95
+2097152              3129.66
+4194304              2963.30
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.37
+4                       0.76
+8                       1.52
+16                      3.02
+32                      5.98
+64                     12.17
+128                    24.37
+256                    47.77
+512                    91.26
+1024                  155.28
+2048                  235.76
+4096                  620.98
+8192                 1057.11
+16384                1605.52
+32768                2213.65
+65536                1793.89
+131072               2511.58
+262144               2809.99
+524288               3054.37
+1048576              3091.86
+2097152              3171.61
+4194304              3065.04
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.75
+8                       1.51
+16                      3.02
+32                      5.95
+64                     12.02
+128                    24.16
+256                    47.07
+512                    91.48
+1024                  153.72
+2048                  235.33
+4096                  450.71
+8192                 1050.57
+16384                1614.41
+32768                2277.76
+65536                1796.84
+131072               2436.05
+262144               2869.64
+524288               3046.18
+1048576              3122.65
+2097152              3156.76
+4194304              2889.42
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.54
+16                      3.07
+32                      6.07
+64                     12.17
+128                    24.37
+256                    47.87
+512                    92.20
+1024                  154.29
+2048                  237.91
+4096                  474.57
+8192                 1045.34
+16384                1635.29
+32768                2247.83
+65536                1792.69
+131072               2450.90
+262144               2846.88
+524288               3002.18
+1048576              3130.09
+2097152              3187.90
+4194304              2984.63
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.75
+8                       1.52
+16                      3.04
+32                      6.01
+64                     12.08
+128                    24.23
+256                    47.85
+512                    90.77
+1024                  155.14
+2048                  235.88
+4096                  622.72
+8192                 1064.54
+16384                1616.16
+32768                2054.23
+65536                1805.68
+131072               2521.44
+262144               2796.75
+524288               3015.93
+1048576              3100.19
+2097152              3105.80
+4194304              2885.70
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.51
+16                      3.07
+32                      6.07
+64                     12.21
+128                    24.44
+256                    48.43
+512                    91.84
+1024                  154.03
+2048                  237.72
+4096                  632.36
+8192                 1082.89
+16384                1604.37
+32768                2235.44
+65536                1800.32
+131072               2459.66
+262144               2836.64
+524288               3049.71
+1048576              3119.97
+2097152              3106.69
+4194304              3075.86
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.75
+8                       1.52
+16                      3.03
+32                      5.97
+64                     11.98
+128                    24.43
+256                    47.44
+512                    92.42
+1024                  151.46
+2048                  237.04
+4096                  480.73
+8192                 1067.12
+16384                1618.56
+32768                2279.32
+65536                1802.71
+131072               2467.81
+262144               2819.95
+524288               3053.64
+1048576              3131.49
+2097152              3215.42
+4194304              3134.10
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.77
+8                       1.53
+16                      3.03
+32                      6.06
+64                     12.23
+128                    24.31
+256                    47.82
+512                    93.74
+1024                  153.96
+2048                  235.22
+4096                  594.25
+8192                 1063.81
+16384                1622.16
+32768                1695.89
+65536                1803.42
+131072               2468.12
+262144               2809.97
+524288               3054.33
+1048576              3120.98
+2097152              3180.04
+4194304              3134.80
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.77
+8                       1.51
+16                      2.99
+32                      5.95
+64                     12.13
+128                    23.93
+256                    48.30
+512                    92.11
+1024                  154.77
+2048                  234.13
+4096                  623.69
+8192                 1076.28
+16384                1615.25
+32768                2255.79
+65536                1811.08
+131072               2517.20
+262144               2845.22
+524288               3080.97
+1048576              3100.98
+2097152              3142.35
+4194304              2939.14
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.54
+16                      3.06
+32                      6.03
+64                     12.35
+128                    24.15
+256                    48.18
+512                    91.88
+1024                  156.77
+2048                  235.92
+4096                  458.77
+8192                 1072.81
+16384                1614.66
+32768                2243.33
+65536                1808.03
+131072               2508.07
+262144               2806.65
+524288               3048.90
+1048576              3134.90
+2097152              3216.02
+4194304              3110.11
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.76
+8                       1.52
+16                      2.99
+32                      5.98
+64                     12.10
+128                    24.22
+256                    48.11
+512                    91.55
+1024                  154.86
+2048                  236.94
+4096                  443.98
+8192                 1070.24
+16384                1620.93
+32768                2056.49
+65536                1805.50
+131072               2444.73
+262144               2824.68
+524288               3018.95
+1048576              3127.65
+2097152              3174.99
+4194304              2956.59
+Warning: Permanently added '[osu-bibw-single-node-worker-0.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[osu-bibw-single-node-worker-1.osu-bibw-single-node.osutmp.svc]:2222' (ECDSA) to the list of known hosts.
+
+# OSU MPI Bi-Directional Bandwidth Test v7.4
+# Datatype: MPI_CHAR.
+# Size      Bandwidth (MB/s)
+1                       0.19
+2                       0.38
+4                       0.77
+8                       1.55
+16                      2.99
+32                      6.14
+64                     12.17
+128                    24.11
+256                    46.07
+512                    92.44
+1024                  154.09
+2048                  233.85
+4096                  481.65
+8192                 1046.01
+16384                1636.76
+32768                2236.67
+65536                1795.45
+131072               2421.69
+262144               2826.65
+524288               3076.21
+1048576              3137.81
+2097152              3114.99
+4194304              2939.20
