@@ -1,3 +1,6 @@
 [submodule "chpt4-dask/dask-bench"]
 	path = chpt4-dask/dask-bench
 	url = https://github.com/IsacPasianotto/dask-bench.git
+[submodule "latex/thesis"]
+	path = latex/thesis
+	url = https://github.com/IsacPasianotto/master-thesis-latex
