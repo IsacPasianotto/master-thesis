@@ -14,3 +14,6 @@ TODO -> add this section
 * Perform the benchmark - Kubernetes
 
 
+  * Create a ~osu~ namespace with ~kubectl create namespace osu~
+  * ~cd~ into [[./src/kubernetes][./src/kubernetes]] folder
+  * launch [[./src/kubernetes/run_all_benchmarks.sh][./src/kubernetes/run_all_benchmarks.sh]] bash script

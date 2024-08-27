@@ -1,0 +1,134 @@
+#+title: Kubernetes k8s installation
+
+* Common steps (control plane and workers)
+
+  * use ~modprobe~ to load the kernel modules required by kubernetes
+
+    #+BEGIN_SRC bash
+      modprobe overlay
+      modprobe br_netfilter
+    #+END_SRC
+
+    And make the changes permanent:
+
+    #+BEGIN_SRC bash
+      cat <<EOF | tee /etc/modules-load.d/k8s.conf
+      overlay
+      br_netfilter
+      EOF
+    #+END_SRC
+
+    * Set the kernel parameters required by kubernetes:
+
+    #+BEGIN_SRC bash
+      cat <<EOF |  tee /etc/sysctl.d/k8s.conf
+      net.bridge.bridge-nf-call-iptables = 1
+      net.bridge.bridge-nf-call-ip6tables = 1
+      net.ipv4.ip_forward = 1
+      EOF
+    #+END_SRC
+
+    and load then at runtime:
+
+    #+BEGIN_SRC bash
+      sysctl --system
+    #+END_SRC
+
+  * Disable ~zram~
+
+    #+BEGIN_SRC bash
+      touch /etc/systemd/zram-generator.conf
+      swapoff -a
+    #+END_SRC
+
+  * Disable ~selinux~
+
+    #+BEGIN_SRC bash
+      setenforce 0
+      sed -i 's/^SELINUX=enforcing$/SELINUX=disabled/' /etc/selinux/config
+    #+END_SRC
+
+  * Install the required packages:
+
+    #+BEGIN_SRC bash
+      dnf install -y iproute-tc wget
+    #+END_SRC
+
+  * Configure the yum repository:
+
+    #+BEGIN_SRC bash
+      export kubeversion=1.30
+      cat << EOF | tee /etc/yum.repos.d/kubernetes.repo
+      [kubernetes]
+      name=Kubernetes
+      baseurl=https://pkgs.k8s.io/core:/stable:/v$kubeversion/rpm/
+      enabled=1
+      gpgcheck=1
+      gpgkey=https://pkgs.k8s.io/core:/stable:/v$kubeversion/rpm/repodata/repomd.xml.key
+      exclude=kubelet kubeadm kubectl cri-tools kubernetes-cni
+      EOF
+    #+END_SRC
+
+  * Install the required packages:
+
+    #+BEGIN_SRC bash
+      dnf makecache
+      dnf install -y crio kubelet kubeadm kubectl --disableexcludes=kubernetes
+    #+END_SRC
+
+
+  * Start and enable the services:
+    #+BEGIN_SRC bash
+      systemctl enable --now crio kubelet
+    #+END_SRC
+
+  * edit ~/etc/cni/net.d/100-crio-bridge.conlist~ with the following content
+
+    #+BEGIN_SRC
+      {
+        "cniVersion": "1.0.0",
+        "name": "crio",
+        "plugins": [
+          {
+            "type": "bridge",
+            "bridge": "cni0",
+            "isGateway": true,
+            "ipMasq": true,
+            "hairpinMode": true,
+            "ipam": {
+              "type": "host-local",
+              "routes": [
+                  { "dst": "0.0.0.0/0" },
+                  { "dst": "::/0" }
+              ],
+              "ranges": [
+                  [{ "subnet": "172.22.0.0/16" }],
+                  [{ "subnet": "1100:200::/24" }]
+              ]
+            }
+          }
+        ]
+      }
+    #+END_SRC
+
+* Node-specific action to perform
+
+** Set up control plane:
+
+  * Initialize the control plane, and save the output to a file:
+
+    #+BEGIN_SRC bash
+      kubeadm init --pod-network-cidr=172.22.0.0/16 --service-cidr=172.23.0.0/16 > /root/kubeinit.log
+    #+END_SRC
+
+  * Set up the kubeconfig:
+
+    #+BEGIN_SRC bash
+      mkdir -p $HOME/.kube
+      cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
+      chown $(id -u):$(id -g) $HOME/.kube/config
+    #+END_SRC
+
+** Set up the workers:
+
+  * Copy the output of the ~kubeadm init~ command from the control plane to the worker nodes.

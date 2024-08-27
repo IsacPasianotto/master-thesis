@@ -1,0 +1,7 @@
+#+title: Flannel installation
+
+To install the [[https://github.com/flannel-io/flannel][Flannel CNI plugin]] you can use the provided [[./kube-flannel.yml][kube-flannel.yml]] manifest file.
+
+#+begin_src 
+  kubectl apply -f kube-flannel.yml
+#+end_src

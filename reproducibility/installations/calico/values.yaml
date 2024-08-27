@@ -1,0 +1,29 @@
+installation:
+  enabled: true
+  cni:
+    type: Calico
+  calicoNetwork:
+    bgp: Enabled
+    ipPools:
+    - blockSize: 26
+      cidr: 172.22.0.0/16
+      encapsulation: IPIP
+      natOutgoing: Enabled
+      nodeSelector: all()
+    # needed otherwise it will match the ib interface
+    nodeAddressAutodetectionV4:
+      firstFound: False
+      interface: bond0
+apiServer:
+  enabled: true
+
+defaultFelixConfiguration:
+  enabled: false
+
+# Image and registry configuration for the tigera/operator pod.
+tigeraOperator:
+  image: tigera/operator
+  version: v1.34.0
+calicoctl:
+  image: docker.io/calico/ctl
+  tag: v3.28.0

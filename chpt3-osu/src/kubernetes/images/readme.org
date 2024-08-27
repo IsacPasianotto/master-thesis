@@ -1,0 +1,28 @@
+#+title: Contaner images
+
+This directory contains all the images needed to build the ~pasianeight/osu-benchmark:deb12~ container used in the [[./../yaml-files][yaml-file folders]].
+
+Remark: remeber to do it in the computational node you will use to run the container.
+
+#+begin_src
+podman login docker.io
+
+USERNAME=<your_dockerhub_username>
+PODTAG=<instert_tag_there>
+
+podman build -f openmpi-builder.Dockerfile -t openmpi-builder
+podman tag openmpi-builder:latest docker.io/$USERNAME/openmpi-builder:$PODTAG
+podman push docker.io/$USERNAME/openmpi-builder:$PODTAG
+
+podman build -f osu-code-provider.Dockerfile -t osu-code-provider
+podman tag osu-code-provider:latest docker.io/$USERNAME/osu-code-provider:$PODTAG
+podman push docker.io/$USERNAME/osu-code-provider:latest
+
+podman build -f openmpi.Dockerfile -t mpi-operator
+podman tag mpi-operator:latest docker.io/$USERNAME/mpi-operator:$PODTAG
+podman push docker.io/$USERNAME/mpi-operator:$PODTAG
+
+podman build -t osu-bemchmark .
+podman tag osu-bemchmark:latest docker.io/$USERNAME/osu-benchmark:$PODTAG
+podman push docker.io/$USERNAME/osu-benchmark:$PODTAG
+#+end_src

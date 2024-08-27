@@ -1,0 +1,12 @@
+#+title: cilium installation: 
+
+To install the [[https://cilium.io/][Cilium CNI plugin]] you can just use the [[./install.sh][install.sh]] shell scritp to have the ~cilium~ command line tool. 
+Then launch the ~cilium~ command to install the CNI plugin.
+
+#+begin_src
+  ./install.sh
+  cilium install
+#+end_src
+
+
+*Prerequisites* You need to have [[https://go.dev/][Go]] installed on your system.

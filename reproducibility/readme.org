@@ -16,56 +16,46 @@ The most relevant details are:
     - 25 Gbit/s Ethernet Network for general TCP/IP
     - 100 Gbit/s Infiniband link for Remote Direct Memory Access (RDMA) between the compute node
 
-* Operating System
-
-  * *Operating system*:  [[https://fedoraproject.org/][fedora 40]]
+* Software stack:
+  * ~Operating system~:  [[https://fedoraproject.org/][fedora 40]]
+  * ~Linux kernel~: 6.9.4
     #+begin_src
-      ipasia00@thin003:~$ cat /etc/os-release
-      NAME="Fedora Linux"
-      VERSION="40 (Forty)"
-      ID=fedora
-      VERSION_ID=40
-      VERSION_CODENAME=""
-      PLATFORM_ID="platform:f40"
-      PRETTY_NAME="Fedora Linux 40 (Forty)"
-      ANSI_COLOR="0;38;2;60;110;180"
-      LOGO=fedora-logo-icon
-      CPE_NAME="cpe:/o:fedoraproject:fedora:40"
-      DEFAULT_HOSTNAME="fedora"
-      HOME_URL="https://fedoraproject.org/"
-      DOCUMENTATION_URL="https://docs.fedoraproject.org/en-US/fedora/f40/system-administrators-guide/"
-      SUPPORT_URL="https://ask.fedoraproject.org/"
-      BUG_REPORT_URL="https://bugzilla.redhat.com/"
-      REDHAT_BUGZILLA_PRODUCT="Fedora"
-      REDHAT_BUGZILLA_PRODUCT_VERSION=40
-      REDHAT_SUPPORT_PRODUCT="Fedora"
-      REDHAT_SUPPORT_PRODUCT_VERSION=40
-      SUPPORT_END=2025-05-13
+      root@thin003:~$ uname -srm
+      Linux 6.9.12-200.fc40.x86_64 x86_64
     #+end_src
-  * *Linux kernel*: 6.9.4
+  * ~compiler~ version:
+   #+begin_src
+     root@thin003:~$ gcc --version
+     gcc (GCC) 14.2.1 20240801 (Red Hat 14.2.1-1)
+     Copyright (C) 2024 Free Software Foundation, Inc.
+     This is free software; see the source for copying conditions.  There is NO
+     warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+   #+end_src
+  * ~OpenMPI~ version:
+
     #+begin_src
-      ipasia00@thin003:~$ uname -srm
-      Linux 6.9.4-200.fc40.x86_64 x86_64
-    #+end_src
-
-* OpenMPI
-
-  *  *compiler* version:
-    #+begin_src
-    ipasia00@thin003:~$ gcc --version
-    gcc (GCC) 14.1.1 20240607 (Red Hat 14.1.1-5)
-    Copyright (C) 2024 Free Software Foundation, Inc.
-    This is free software; see the source for copying conditions.  There is NO
-    warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-    #+end_src
-
-    * *OpenMPI* version:
-
-      #+begin_src
       ipasia00@thin003:~$ mpirun --version
-      mpirun (Open MPI) 4.1.5rc4
+      mpirun (Open MPI) 4.1.6rc4
 
       Report bugs to http://www.open-mpi.org/community/help/
-      #+end_src
+    #+end_src
 
-* Python
+  * ~Python~: was compiled directly using the computing nodes, following the [[https://orfeo-doc.areasciencepark.it/HPC/python-environment/#python-version][Cluster documentation]].
+    The used version was ~python3.11.9~.
+
+  * ~cri-o~: The container runtime used in this work was [[https://cri-o.io/][cri-o]].
+
+    #+begin_src
+      root@thin003:~$ crio --version
+      crio version 1.28.2
+    #+end_src
+
+  * ~Kubernetes~: The orchestrator used in this work was [[https://kubernetes.io/][Kubernetes]].
+    In particular the Kubernetes distribution adopted was ~k8s~ at version 1.30.4.
+
+    #+begin_src
+      root@thin003:~$ kubectl version
+      Client Version: v1.30.1
+      Kustomize Version: v5.0.4-0.20230601165947-6ce0bf390ce3
+      Server Version: v1.30.4
+    #+end_src

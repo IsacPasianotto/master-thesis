@@ -1,0 +1,12 @@
+#+title: Dask Operator Instalation
+
+To install the [[https://kubernetes.dask.org/en/latest/][kubernetes Dask Operator]] you can use the following command:
+
+#+BEGIN_SRC bash
+helm install \ 
+    --repo https://helm.dask.org \
+    --create-namespace \ 
+    -n dask-operator \ 
+    --generate-name dask-kubernetes-operator \ 
+    --values=values.yaml
+#+END_SRC

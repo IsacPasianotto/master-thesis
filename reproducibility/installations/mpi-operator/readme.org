@@ -1,0 +1,7 @@
+#+title: MPI operator installation 
+
+To install the [[https://github.com/kubeflow/mpi-operator][MPI operator]] you can use the ~0.5.0~  [[./mpi-operator.yaml][release version yaml file]] and apply it to your cluster. 
+
+#+BEGIN_SRC
+kubectl apply --server-side -f mpi-operator.yaml
+#+END_SRC

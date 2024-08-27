@@ -1,0 +1,13 @@
+#+title: Calico installation
+
+To install [[https://docs.tigera.io/calico/latest/about/][calico CNI plugin]] execute:
+
+#+begin_src 
+  helm repo add projectcalico https://docs.tigera.io/calico/charts
+  helm install calico \
+    projectcalico/tigera-operator \
+    --version v3.28.0 \
+    --namespace tigera-operator\
+    --create-namespace \
+    --values values.yaml
+#+end_src
