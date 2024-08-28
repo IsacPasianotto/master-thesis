@@ -1,0 +1,89 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: nc-service-server
+  labels:
+    app: nc-latency-server
+spec:
+  ports:
+  - port: 80
+    name: web
+  clusterIP: None
+  selector:
+    app: nc-latency-server
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: nc-service-client
+  labels:
+    app: nc-latency-client
+spec:
+  ports:
+  - port: 80
+    name: web
+  clusterIP: None
+  selector:
+    app: nc-latency-client
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: nc-latency-server
+spec:
+  selector:
+    matchLabels:
+      app: nc-latency-server
+  serviceName: "nc-service-server"
+  replicas: 1
+  template:
+    metadata:
+      labels:
+        app: "nc-latency-server"
+    spec:
+      # nodeName: "thin003.hpc.rd.areasciencepark.it"
+      nodeName: "kprod-01.kub.rd.areasciencepark.it"
+      containers:
+      - name: "server"
+        image: "pasianeight/swissknife:0.3"
+        command: ["busybox"]
+        args:
+          - "nc"
+          - "-l"
+          - "-p"
+          - "6000"
+          - "-e"
+          - "cat"
+        securityContext:
+          privileged: true
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: nc-latency-client
+spec:
+  template:
+    metadata:
+      labels:
+        app: "nc-latency-client"
+    spec:
+      # nodeName: "thin003.hpc.rd.areasciencepark.it"
+      nodeName: "kprod-01.kub.rd.areasciencepark.it"
+      initContainers:
+      - name: "wait-server-to-spawn"
+        image: "busybox"
+        command: ["/bin/sh"]
+        args:
+          - "-c"
+          - "sleep 2"
+      containers:
+      - name: "client"
+        image: "pasianeight/swissknife:0.3"
+        command: ["/bin/bash"]
+        args:
+          - "-c"
+          - "for i in $(seq 0 64 8192); do  echo \"round-trip $i\" ; hping3 -S -p 6000 nc-latency-server-0.nc-service-server.default.svc.cluster.local -c 3 -d $i 2>&1 ; done | grep -F round | cut -d ' ' -f2-"
+        securityContext:
+          privileged: true
+      restartPolicy: Never
+
