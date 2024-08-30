@@ -43,3 +43,6 @@ appendixB-osu_results/*.ipynb
 
 # Jupyter 
 **/.ipynb_checkpoints
+
+# logs in appendix are wanted to be tracked
+!appendixA-network/*.log

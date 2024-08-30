@@ -1,0 +1,64 @@
+Warning: Permanently added '[intel-latency-single-node-worker-0.intel-latency-single-node.intel.svc]:2222' (ECDSA) to the list of known hosts.
+Warning: Permanently added '[intel-latency-single-node-worker-1.intel-latency-single-node.intel.svc]:2222' (ECDSA) to the list of known hosts.
+#----------------------------------------------------------------
+#    Intel(R) MPI Benchmarks 2018, MPI-1 part
+#----------------------------------------------------------------
+# Date                  : Fri Aug 23 07:01:57 2024
+# Machine               : x86_64
+# System                : Linux
+# Release               : 6.8.9-300.fc40.x86_64
+# Version               : #1 SMP PREEMPT_DYNAMIC Thu May  2 18:59:06 UTC 2024
+# MPI Version           : 3.1
+# MPI Thread Environment: 
+
+
+# Calling sequence was: 
+
+# /home/mpiuser/code/IMB-MPI1 pingpong
+
+# Minimum message length in bytes:   0
+# Maximum message length in bytes:   4194304
+#
+# MPI_Datatype                   :   MPI_BYTE 
+# MPI_Datatype for reductions    :   MPI_FLOAT
+# MPI_Op                         :   MPI_SUM  
+#
+#
+
+# List of Benchmarks to run:
+
+# PingPong
+
+#---------------------------------------------------
+# Benchmarking PingPong 
+# #processes = 2 
+#---------------------------------------------------
+       #bytes #repetitions      t[usec]   Mbytes/sec
+            0         1000        19.01         0.00
+            1         1000        19.44         0.05
+            2         1000        19.16         0.10
+            4         1000        19.15         0.21
+            8         1000        19.17         0.42
+           16         1000        19.17         0.83
+           32         1000        19.22         1.66
+           64         1000        19.21         3.33
+          128         1000        19.21         6.66
+          256         1000        19.27        13.29
+          512         1000        19.36        26.45
+         1024         1000        19.50        52.50
+         2048         1000        19.33       105.93
+         4096         1000        20.31       201.67
+         8192         1000        21.61       379.03
+        16384         1000        28.10       583.15
+        32768         1000        44.84       730.79
+        65536          640        95.52       686.10
+       131072          320       113.92      1150.58
+       262144          160       154.27      1699.29
+       524288           80       230.93      2270.32
+      1048576           40       402.65      2604.18
+      2097152           20       735.06      2853.05
+      4194304           10      1622.56      2585.00
+
+
+# All processes entering MPI_Finalize
+
