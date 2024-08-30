@@ -11,5 +11,35 @@ chpt3-osu/osu-micro-benchmarks-7.4.tar.gz
 # plots for the results
 chpt3-osu/out/plots/*
 
+# other 
+chpt3-osu/out/do-not-commit.ipynb
+
+####
+# Chapter 4
+####
+
+# ...
+
+####
+# Other
+####
+
+appendixB-osu_results/img
+appendixB-osu_results/img/
+appendixB-osu_results/*.ipynb
+
+# LaTeX content in appendixB and appendixC
+
+**/*.tex
+**/*.aux
+**/*.bcf
+**/*.out
+**/*.log
+**/*.run.xml
+**/*.toc
+**/*.bbl
+**/*.blg
+**/auto/
+
 # Jupyter 
 **/.ipynb_checkpoints

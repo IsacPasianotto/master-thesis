@@ -1,5 +1,10 @@
 #!/bin/bash 
 
+yaml_file=$1
+results_file=$2
+targetpodname=$3
+namespace=$4
+
 if [ -z "$(kubectl get namespace $namespace)" ]; then
     echo "The namespace $namespace does not exist. Please create it first."
     exit 1
@@ -16,10 +21,6 @@ if [ ! -f $1 ]; then
     exit 1
 fi
 
-yaml_file=$1
-results_file=$2
-targetpodname=$3
-namespace=$4
 status=""
 
 kubectl apply -f $yaml_file --namespace=$namespace

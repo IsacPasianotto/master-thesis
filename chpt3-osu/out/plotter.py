@@ -120,7 +120,7 @@ def make_plot(
         plt.ylim(ylim)
 
     if logscale:
-        plt.xlabel(r'$\log{\left(\# \textrm{ of texttt{MPI\_CHAR} sent}\right)}$', fontsize = XLABEL_FONTSIZE, labelpad = XLABEL_PAD)
+        plt.xlabel(r'$\log{\left(\# \textrm{ of \texttt{MPI\_CHAR} sent}\right)}$', fontsize = XLABEL_FONTSIZE, labelpad = XLABEL_PAD)
         plt.ylabel(r'$\log{\left(\textrm{' + ylabel + r'}\right)}\quad\left[\log{\left(' + unit_y_label + r'\right)}\right]$', fontsize = YLABEL_FONTSIZE, labelpad = YLABEL_PAD)
 
     else:
@@ -196,7 +196,7 @@ def make_latency_plot(
         plt.yscale('log')
 
     if logscale:
-        plt.xlabel(r'$\log{\left(\# \textrm{ of texttt{MPI\_CHAR} sent}\right)}$', fontsize = XLABEL_FONTSIZE, labelpad = XLABEL_PAD)
+        plt.xlabel(r'$\log{\left(\# \textrm{ of \texttt{MPI\_CHAR} sent}\right)}$', fontsize = XLABEL_FONTSIZE, labelpad = XLABEL_PAD)
         plt.ylabel(r'$\log{\left(\textrm{ Latency }\right)}\quad\left[\log{\left( \mu s \right)}\right]$', fontsize = YLABEL_FONTSIZE, labelpad = YLABEL_PAD)
 
     else:

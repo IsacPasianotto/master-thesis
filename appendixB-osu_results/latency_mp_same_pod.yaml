@@ -1,0 +1,23 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: latencymp-samepod
+spec:
+  template:
+    metadata:
+      labels:
+        app: "latencymp-samepod"
+    spec:
+      nodeName: "thin003.hpc.rd.areasciencepark.it"
+      containers:
+      - name: "mpijob"
+        image: "pasianeight/osu-benchmark:deb12"
+        command: ["/bin/bash"]
+        args:
+          - "-c"
+          - "mpirun -np 2 --map-by core -c 2 /home/mpiuser/osu/libexec/osu-micro-benchmarks/mpi/pt2pt/osu_latency_mp"
+        securityContext:
+          privileged: false
+          runAsUser: 1000
+      restartPolicy: Never
+
