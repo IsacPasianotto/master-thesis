@@ -152,7 +152,8 @@ def make_latency_plot(
         title:        str  = "",
         logscale:     bool =  True,
         statistics:   str  = 'Mean',
-        file_to_save: str  = ""
+        file_to_save: str  = "",
+        pltbaremetal:    bool = True,
     ) -> None:
     """
     Make a plot to compare how the latency of a given CNI plugin acts in
@@ -174,6 +175,8 @@ def make_latency_plot(
         If True, the plot will be displayed in log scale. Default is True.
     file_to_save: str
         File name to save the obtained plot. if empty the plot will not be saved but displayed.
+    pltbaremetal: bool, optional
+        If true, also the baremetal case will be plotted
     Returns
     -------
     None
@@ -182,14 +185,22 @@ def make_latency_plot(
 
     # Extract sizes for x-axis
     sizes: np.ndarray = data['Size'].unique()
+    if pltbaremetal:
+        baremetal:     pd.DataFrame = data[data['CNI'] == 'baremetal']
+        baremetal_one: pd.DataFrame = baremetal[baremetal['Nodes'] == 1][statistics].values
+        baremetal_two: pd.DataFrame = baremetal[baremetal['Nodes'] == 2][statistics].values
 
     cni: pd.DataFrame = data[data['CNI'] == cni]
     one: np.ndarray = cni[cni['Nodes'] == 1][statistics].values
     two: np.ndarray = cni[cni['Nodes'] == 2][statistics].values
 
     # Plotting
-    plt.plot(sizes, one, label = "1 node", color = COLORS[0], marker = 's')
-    plt.plot(sizes, two, label = "2 nodes",color = COLORS[1], marker = 'D')
+    plt.figure(figsize=FIG_SIZE)
+    plt.plot(sizes, one, label = "Cilium - 1 node", color = COLORS[0], marker = 's')
+    plt.plot(sizes, two, label = "Cilium - 2 nodes",color = COLORS[1], marker = 'D')
+    if pltbaremetal:
+        plt.plot(sizes, baremetal_one, label = "Baremetal - 1 node", color = COLORS[2], marker = 'o')
+        plt.plot(sizes, baremetal_two, label = "Baremetal - 2 nodes", color = COLORS[3], marker = '^')
 
     if logscale:
         plt.xscale('log')

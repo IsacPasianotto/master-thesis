@@ -1,10 +1,5 @@
 #+title: OSU benchmark for network assessment
 
-
-* About the OSU benchmark
-
-TODO -> add this section
-
 * Perform the benchmark - SLURM
 
   * edit the [[./src/slurm/compile.sh][./src/slurm/compile.sh]] file with your needed specification
