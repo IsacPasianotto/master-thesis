@@ -167,6 +167,8 @@ def main()->None:
     plot_series(baremetal_df, kube_df, function="group-by operation (2 columns)", title="\\texttt{groupby(['multiple','columns])} operation", file_to_save="df-group-by-operation-2-columns.pdf", ideal_case=True)
     plot_series(baremetal_df, kube_df, function="order data", title="Sort data", file_to_save="df-order-data.pdf", ideal_case=True)
     plot_series(baremetal_df, kube_df, function="random access", title="Random access", file_to_save="df-random-access.pdf", ideal_case=False)
+    plot_series(baremetal_df, kube_df, function="reduction operation (std)", title="Reduction operation (std)", file_to_save="df-reduction-operation-std.pdf", ideal_case=True)
+    
 
     print(f"All plots saved in {PLOTS_DIR} directory.")
 

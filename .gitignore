@@ -28,6 +28,10 @@ appendixB-osu_results/img
 appendixB-osu_results/img/
 appendixB-osu_results/*.ipynb
 
+appendixC-dask_results/img
+appendixC-dask_results/img/
+appendixC-dask_results/tmp_tables.ipynb
+
 # LaTeX content in appendixB and appendixC
 
 **/*.tex
