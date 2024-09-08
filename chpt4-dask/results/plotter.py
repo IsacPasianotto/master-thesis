@@ -20,14 +20,18 @@ plt.rc('font', family='serif')
 # Colorblind-friendly palette
 COLORS: list[str] = ['#648FFF', '#DC267F', '#FE6100', '#785EF0', '#FFB000']
 
-XLABEL_FONTSIZE: int = 12
-YLABEL_FONTSIZE: int = 12
+XLABEL_FONTSIZE: int = 15
+YLABEL_FONTSIZE: int = 15
 XLABEL_PAD:      int = 5
 YLABEL_PAD:      int = 10
-TITLE_FONTSIZE:  int = 16
+TITLE_FONTSIZE:  int = 18
 TITLE_PAD:       int = 10
-LEGEND_FONTSIZE: int = 11
+LEGEND_FONTSIZE: int = 13
 ALPHA:           float = 0.2
+TIXS_FONTSIZE:   int = 13
+LINEWIDTH_GRID:  int = 0.5
+COLOR_GRID:      str = 'grey'
+ALPHA_GRID:      float = 0.5
 FIG_SIZE: Tuple[int, int] = (9, 6)
 
 PLOTS_DIR: str = "plots"
@@ -102,9 +106,7 @@ def plot_series(
 
     # Plot the data
     plt.figure(figsize=FIG_SIZE)
-
     plt.plot(ncores_bm, bm, label="baremetal", marker="s", color=COLORS[0])
-
     plt.plot(ncores_k, k, label="kubernetes", marker="D", color=COLORS[1])
 
     if show_std:
@@ -127,6 +129,19 @@ def plot_series(
         title = function
     plt.title(title, fontsize = TITLE_FONTSIZE, pad = TITLE_PAD)
     plt.legend(loc = 'best', fontsize = LEGEND_FONTSIZE, frameon = False)
+
+
+    # set all the x ticks and y ticks to be more visible:
+    # custom xticks from 2 to 48, step by 2:
+
+    plt.xticks(fontsize=TIXS_FONTSIZE)
+    plt.yticks(fontsize=TIXS_FONTSIZE)
+
+    # set the grid on both x-axis
+    plt.grid(axis='y', linestyle='--', linewidth=LINEWIDTH_GRID, color=COLOR_GRID, alpha=ALPHA_GRID)
+    plt.grid(axis='x', linestyle='--', linewidth=LINEWIDTH_GRID, color=COLOR_GRID, alpha=ALPHA_GRID)
+    plt.minorticks_on()
+    plt.grid(which='minor', linestyle=':', linewidth=LINEWIDTH_GRID, color=COLOR_GRID, alpha=ALPHA_GRID)
 
     # Save or show the plot
     if file_to_save:
@@ -151,7 +166,7 @@ def main()->None:
     os.makedirs(PLOTS_DIR, exist_ok=True)
 
     # Array:
-    plot_series(baremetal_array, kube_array, function="block-wise operation", title="Blockwise operation \\texttt{x +=1} (\\texttt{dask.map\\_block()})", file_to_save="array-block-wise-operation.pdf")
+    plot_series(baremetal_array, kube_array, function="block-wise operation", title="Blockwise operation \\texttt{x += 1} (\\texttt{dask.map\\_block()})", file_to_save="array-block-wise-operation.pdf")
     plot_series(baremetal_array, kube_array, function="create random 2D-array", title="Randomly initialize a 2D-array", file_to_save="array-create-random-2D-array.pdf")
     plot_series(baremetal_array, kube_array, function="elementwise computation", title="Elementwise computation \\texttt{y = dask.sin(x)**2+dask.cos(x)**2}", file_to_save="array-elementwise-computation.pdf")
     plot_series(baremetal_array, kube_array, function="random access", title="Random access", file_to_save="array-random-access.pdf", ideal_case=False)

@@ -47,6 +47,7 @@ appendixC-dask_results/tmp_tables.ipynb
 
 # Jupyter 
 **/.ipynb_checkpoints
+plots_for_abstract.ipynb
 
 # logs in appendix are wanted to be tracked
 !appendixA-network/*.log

@@ -18,16 +18,22 @@ plt.rc('font', family='serif')
 
 # Colorblind-friendly palette
 COLORS: list[str] = ['#648FFF', '#DC267F', '#FE6100', '#785EF0', '#FFB000']
+COLOR_GRID: str   = 'grey'
 
-XLABEL_FONTSIZE: int = 12
-YLABEL_FONTSIZE: int = 12
+
+XLABEL_FONTSIZE: int = 15
+YLABEL_FONTSIZE: int = 15
 XLABEL_PAD:      int = 5
 YLABEL_PAD:      int = 10
-TITLE_FONTSIZE:  int = 16
+TITLE_FONTSIZE:  int = 18
 TITLE_PAD:       int = 10
-LEGEND_FONTSIZE: int = 11
+LEGEND_FONTSIZE: int = 13
+TIXS_FONTSIZE:   int = 13
 ALPHA:           float = 0.2
+ALPHA_GRID:      float = 0.5
+LINEWIDTH_GRID:  float = 0.5
 FIG_SIZE: Tuple[int, int] = (9, 6)
+
 
 DATA_FILE: str = './processed_data_aggregated.csv'
 PLOTS_DIR: str = 'plots'
@@ -127,7 +133,6 @@ def make_plot(
         plt.xlabel(r'\# of \texttt{MPI\_CHAR} sent', fontsize = XLABEL_FONTSIZE, labelpad = XLABEL_PAD)
         plt.ylabel(ylabel + r'$\quad\left[' + unit_y_label + r'\right]$', fontsize = YLABEL_FONTSIZE, labelpad = YLABEL_PAD)
 
-
     # Access the current axes
     ax = plt.gca()
     # Hide the top and right spines
@@ -137,6 +142,14 @@ def make_plot(
     plt.minorticks_off()
     plt.title(title, fontsize=TITLE_FONTSIZE, pad= TITLE_PAD)
     plt.legend(loc ='best', fontsize=LEGEND_FONTSIZE, frameon=False)
+
+    # set all the x ticks and y ticks to be more visible:
+    plt.xticks(fontsize=TIXS_FONTSIZE)
+    plt.yticks(fontsize=TIXS_FONTSIZE)
+
+    # set the grid on both x-axis
+    plt.grid(axis='y', linestyle='--', linewidth=LINEWIDTH_GRID, color=COLOR_GRID, alpha=ALPHA_GRID)
+    plt.grid(axis='x', linestyle='--', linewidth=LINEWIDTH_GRID, color=COLOR_GRID, alpha=ALPHA_GRID)
 
     if file_to_save:
         plt.savefig(PLOTS_DIR + '/' + file_to_save)
@@ -223,6 +236,14 @@ def make_latency_plot(
     plt.minorticks_off()
     plt.title(title, fontsize=TITLE_FONTSIZE, pad= TITLE_PAD)
     plt.legend(loc ='best', fontsize=LEGEND_FONTSIZE, frameon=False)
+
+    # set all the x ticks and y ticks to be more visible:
+    plt.xticks(fontsize=TIXS_FONTSIZE)
+    plt.yticks(fontsize=TIXS_FONTSIZE)
+
+    # set the grid on both x-axis
+    plt.grid(axis='y', linestyle='--', linewidth=LINEWIDTH_GRID, color=COLOR_GRID, alpha=ALPHA_GRID)
+    plt.grid(axis='x', linestyle='--', linewidth=LINEWIDTH_GRID, color=COLOR_GRID, alpha=ALPHA_GRID)
 
     if file_to_save:
         plt.savefig(PLOTS_DIR + '/' + file_to_save)
