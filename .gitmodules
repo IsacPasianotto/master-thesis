@@ -4,3 +4,6 @@
 [submodule "latex/thesis"]
 	path = latex/thesis
 	url = https://github.com/IsacPasianotto/master-thesis-latex
+[submodule "latex/presentations"]
+	path = latex/presentations
+	url = https://github.com/IsacPasianotto/master-thesis-presentation.git
