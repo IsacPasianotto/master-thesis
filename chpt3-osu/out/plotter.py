@@ -38,8 +38,9 @@ FIG_SIZE: Tuple[int, int] = (9, 6)
 DATA_FILE: str = './processed_data_aggregated.csv'
 PLOTS_DIR: str = 'plots'
 
-BANDWIDTH_YLIM: Tuple[float, int] = (0.01, 31000)
-LATENCY_YLIM:   Tuple[float, int] = (0.1, 8500)
+BANDWIDTH_YLIM:       Tuple[float, int] = (0.01, 31000)
+LATENCY_YLIM:         Tuple[float, int] = (0.1, 8500)
+LATENCY_YLIM_2_NODES: Tuple[int, int]   = (9, 16500)
 
 ########
 ## Plot function
@@ -210,10 +211,10 @@ def make_latency_plot(
     # Plotting
     plt.figure(figsize=FIG_SIZE)
     plt.plot(sizes, one, label = "Cilium - 1 node", color = COLORS[0], marker = 's')
-    plt.plot(sizes, two, label = "Cilium - 2 nodes",color = COLORS[1], marker = 'D')
+    plt.plot(sizes, two, label = "Cilium - 2 nodes",color = COLORS[0], marker = 'D')
     if pltbaremetal:
-        plt.plot(sizes, baremetal_one, label = "Baremetal - 1 node", color = COLORS[2], marker = 'o')
-        plt.plot(sizes, baremetal_two, label = "Baremetal - 2 nodes", color = COLORS[3], marker = '^')
+        plt.plot(sizes, baremetal_one, label = "Baremetal - 1 node", color = COLORS[1], marker = 'o')
+        plt.plot(sizes, baremetal_two, label = "Baremetal - 2 nodes", color = COLORS[1], marker = '^')
 
     if logscale:
         plt.xscale('log')
@@ -290,11 +291,11 @@ def main():
     os.makedirs(PLOTS_DIR, exist_ok=True)
 
     make_plot(latency_1, '\\texttt{osu_latency} -- Pods on the same node', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'latency-1-node.pdf', logscale=True, ylim=LATENCY_YLIM)
-    make_plot(latency_2, '\\texttt{osu_latency} -- Pods on 2 different nodes', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'latency-2-nodes.pdf', logscale=True, ylim=LATENCY_YLIM)
+    make_plot(latency_2, '\\texttt{osu_latency} -- Pods on 2 different nodes', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'latency-2-nodes.pdf', logscale=True, ylim=LATENCY_YLIM_2_NODES)
     make_plot(latency_mp_1, '\\texttt{osu_latency_mp} -- Pods on the same node', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'latency_mp-1-node.pdf', logscale=True, ylim=LATENCY_YLIM)
-    make_plot(latency_mp_2, '\\texttt{osu_latency_mp} -- Pods on 2 different nodes', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'latency_mp-2-nodes.pdf', logscale=True, ylim=LATENCY_YLIM)
+    make_plot(latency_mp_2, '\\texttt{osu_latency_mp} -- Pods on 2 different nodes', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'latency_mp-2-nodes.pdf', logscale=True, ylim=LATENCY_YLIM_2_NODES)
     make_plot(multi_latency_1, '\\texttt{osu_multi_lat} -- Pods on the same node', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'multi-latency-1-node.pdf', logscale=True, ylim=LATENCY_YLIM)
-    make_plot(multi_latency_2, '\\texttt{osu_multi_lat} -- Pods on 2 different nodes', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'multi-latency-2-nodes.pdf', logscale=True, ylim=LATENCY_YLIM)
+    make_plot(multi_latency_2, '\\texttt{osu_multi_lat} -- Pods on 2 different nodes', ylabel='Latency', unit_y_label = r'\mu s', file_to_save = 'multi-latency-2-nodes.pdf', logscale=True, ylim=LATENCY_YLIM_2_NODES)
 
     make_plot(bw_1, '\\texttt{osu_bw} -- Pods on the same node', ylabel='Bandwidth', unit_y_label = r'MB/s', file_to_save = 'bw-1-node.pdf', logscale=True, ylim=BANDWIDTH_YLIM)
     make_plot(bw_2, '\\texttt{osu_bw} -- Pods on 2 different nodes', ylabel='Bandwidth', unit_y_label = r'MB/s', file_to_save = 'bw-2-nodes.pdf', logscale=True, ylim=BANDWIDTH_YLIM)

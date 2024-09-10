@@ -54,7 +54,8 @@ def plot_series(
         std_col_name: str  = "rate_std",
         show_std:     bool = True,
         ideal_case:   bool = True,
-        file_to_save: str  = ""
+        file_to_save: str  = "",
+        ylim:         Tuple[int, int] = None
     ) -> None:
     """
     Plot the rate of a function in baremetal and kubernetes environments.
@@ -116,6 +117,8 @@ def plot_series(
     if ideal_case:
         plt.plot(ncores_bm, i, color=COLORS[2], linestyle="--", label="Ideal case")
 
+    if ylim:
+        plt.ylim(ylim)
 
     # Aesthetics settings
     ax = plt.gca()
@@ -175,15 +178,13 @@ def main()->None:
     plot_series(baremetal_array, kube_array, function="sum the transpose", title="Sum the transpose $B=A+A^T$", file_to_save="array-sum-the-transpose.pdf")
 
     # DataFrame:
-    plot_series(baremetal_df, kube_df, function="block-wise operation", title="Block-wise operation \\texttt{x += 1}", file_to_save="df-block-wise-operation.pdf", ideal_case=True)
-    plot_series(baremetal_df, kube_df, function="create random dataframe", title="Randomly initialize a \\texttt{dask.DataFrame}", file_to_save="df-create-random-dataframe.pdf", ideal_case=True)
-    # plot_series(baremetal_df, kube_df, function="group-by apply operation", title="Group-by apply operation", file_to_save="df-group-by-apply-operation.pdf", ideal_case=False)
-    plot_series(baremetal_df, kube_df, function="group-by operation", title="\\texttt{groupby('col_1').mean()} operation", file_to_save="df-group-by-operation.pdf", ideal_case=True)
-    plot_series(baremetal_df, kube_df, function="group-by operation (2 columns)", title="\\texttt{groupby(['multiple','columns])} operation", file_to_save="df-group-by-operation-2-columns.pdf", ideal_case=True)
-    plot_series(baremetal_df, kube_df, function="order data", title="Sort data", file_to_save="df-order-data.pdf", ideal_case=True)
+    plot_series(baremetal_df, kube_df, function="block-wise operation", title="Block-wise operation \\texttt{x += 1}", file_to_save="df-block-wise-operation.pdf", ideal_case=True, ylim=(0, 75))
+    plot_series(baremetal_df, kube_df, function="create random dataframe", title="Randomly initialize a \\texttt{dask.DataFrame}", file_to_save="df-create-random-dataframe.pdf", ideal_case=True, ylim=(0, 45))
+    plot_series(baremetal_df, kube_df, function="group-by operation", title="\\texttt{groupby('col_1').mean()} operation", file_to_save="df-group-by-operation.pdf", ideal_case=True, ylim=(0, 15))
+    plot_series(baremetal_df, kube_df, function="group-by operation (2 columns)", title="\\texttt{groupby(['multiple','columns])} operation", file_to_save="df-group-by-operation-2-columns.pdf", ideal_case=True, ylim=(0, 15))
+    plot_series(baremetal_df, kube_df, function="order data", title="Sort data", file_to_save="df-order-data.pdf", ideal_case=True, ylim=(0, 10))
     plot_series(baremetal_df, kube_df, function="random access", title="Random access", file_to_save="df-random-access.pdf", ideal_case=False)
-    plot_series(baremetal_df, kube_df, function="reduction operation (std)", title="Reduction operation (std)", file_to_save="df-reduction-operation-std.pdf", ideal_case=True)
-    
+    plot_series(baremetal_df, kube_df, function="reduction operation (std)", title="Reduction operation (std)", file_to_save="df-reduction-operation-std.pdf", ideal_case=True, ylim=(0, 50))
 
     print(f"All plots saved in {PLOTS_DIR} directory.")
 
