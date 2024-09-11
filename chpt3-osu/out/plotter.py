@@ -213,8 +213,8 @@ def make_latency_plot(
     plt.plot(sizes, one, label = "Cilium - 1 node", color = COLORS[0], marker = 's')
     plt.plot(sizes, two, label = "Cilium - 2 nodes",color = COLORS[0], marker = 'D')
     if pltbaremetal:
-        plt.plot(sizes, baremetal_one, label = "Baremetal - 1 node", color = COLORS[1], marker = 'o')
-        plt.plot(sizes, baremetal_two, label = "Baremetal - 2 nodes", color = COLORS[1], marker = '^')
+        plt.plot(sizes, baremetal_one, label = "Baremetal - 1 node", color = COLORS[1], marker = 's')
+        plt.plot(sizes, baremetal_two, label = "Baremetal - 2 nodes", color = COLORS[1], marker = 'D')
 
     if logscale:
         plt.xscale('log')
