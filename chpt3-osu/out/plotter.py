@@ -42,6 +42,7 @@ BANDWIDTH_YLIM:       Tuple[float, int] = (0.01, 31000)
 LATENCY_YLIM:         Tuple[float, int] = (0.1, 8500)
 LATENCY_YLIM_2_NODES: Tuple[int, int]   = (9, 16500)
 
+LATENCY_YLIM = LATENCY_YLIM_2_NODES = (0.1, 16500)
 ########
 ## Plot function
 ########
@@ -153,7 +154,7 @@ def make_plot(
     plt.grid(axis='x', linestyle='--', linewidth=LINEWIDTH_GRID, color=COLOR_GRID, alpha=ALPHA_GRID)
 
     if file_to_save:
-        plt.savefig(PLOTS_DIR + '/' + file_to_save)
+        plt.savefig(PLOTS_DIR + '/' + file_to_save, transparent=True, format="pdf")
         plt.close()
     else:
         # no file to save, show it

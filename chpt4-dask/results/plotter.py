@@ -148,7 +148,7 @@ def plot_series(
 
     # Save or show the plot
     if file_to_save:
-        plt.savefig(PLOTS_DIR + "/" + file_to_save)
+        plt.savefig(PLOTS_DIR + "/" + file_to_save, transparent=True, format="pdf")
         plt.close
     else:
      plt.show()
