@@ -1,7 +1,18 @@
 #+title: New approaches in scientific computing: the design of a cloud-ready HPC infrastructure
 #+author: Author: [[https://github.com/IsacPasianotto/][*Isac Pasianotto*]]
 
+
+This repository is a collection of all the codes, files and data used in my master's thesis titled /"New approaches in scientific computing: the design of a cloud-ready HPC infrastructure"/ for the master's degree in /Data Science and Scientific Computing/ at the [[https://portale.units.it/it][University of Trieste]].
+
 * Get ready:
 
-In the folder [[./reproducibility][reproducibility]] you will find an accurate description of all the environment and tools used in this work.
+To get the full content of this repository you need to clone the repository and update all the [[https://git-scm.com/book/en/v2/Git-Tools-Submodules][git submodules]]:
 
+#+begin_src
+  git clone https://github.com/IsacPasianotto/master-thesis.git
+  cd master-thesis
+  git submodule update --init --recursive --remote
+#+end_src
+
+
+In the folder [[./reproducibility][reproducibility]] you will find an accurate description of all the environment and tools used in this work, and how to install the Kubernetes cluster and all its components in the same way it was done for this work.
